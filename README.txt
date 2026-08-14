@@ -1,19 +1,18 @@
-MAMI, NUDÍM SA! — HRY VERZIA 5
+MAMI, NUDÍM SA! — CURATED BUILD V6
 
-Tento build používa 350 detailne rozpísaných hier: 50 pre každý vek 2–8.
-Nahraj všetky súbory priamo do rootu GitHub repozitára.
+Tento build zámerne obsahuje iba 70 hier: presne 10 pre každý vek 2–8 rokov.
+Cieľom je kvalita scenára, nie počet položiek.
 
-Najdôležitejšie súbory:
-index.html
-styles.css
-app.js
-games.js
-HRY_VERZIA_5_350_PREMYSLENYCH_HIER.json
-manifest.webmanifest
-sw.js
-nudi-mascot.png
-nudi-logo.svg
-icon-192.png
-icon-512.png
-icon-1024.png
-QA_HRY_VERZIA_5.txt
+Každá hra má:
+- konkrétne pomôcky
+- konkrétnu prípravu
+- presnú štartovaciu vetu
+- 4 detailné kroky
+- jasné finále
+- presné pokračovanie „Chce ešte?“
+- ľahšiu a ťažšiu verziu
+- konkrétnu bezpečnostnú poznámku
+
+GitHub Pages:
+Nahraj všetky súbory z tohto priečinka priamo do rootu repozitára.
+Nepoužívaj priečinok assets.

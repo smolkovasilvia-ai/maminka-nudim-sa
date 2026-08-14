@@ -1,15 +1,23 @@
-MAMI, NUDÍM SA! — CLEAN GITHUB BUILD / QA
+MAMI, NUDÍM SA! — CURATED BUILD V6 QA
 
-PASS — index používa grafiku priamo z rootu, nie z assets/
-PASS — nudi-mascot.png cesta
-PASS — icon-192.png / icon-512.png / icon-1024.png cesty
-PASS — JavaScript syntax
+CONTENT QA
+PASS — 70 hier celkom
+PASS — presne 10 hier pre každý vek 2–8
+PASS — 70 unikátnych názvov
+PASS — 70 unikátnych krokových scenárov
+PASS — každá hra má min. 4 detailné kroky
+PASS — každá hra má konkrétnu prípravu, štartovaciu vetu, finále a pokračovanie
+PASS — kontrola zakázaných placeholderov a šablónových fráz
+PASS — žiadne „Povedz pripravenú vetu“, „Finále“, „podľa názvu hry“, „urob prvú verziu“
+PASS — materiály nie sú vágne
+
+TECHNICAL QA
+PASS — app.js syntax
 PASS — manifest JSON
-PASS — service worker používa novú cache: nudi-clean-v7-20260814
-PASS — staré cache sa pri aktivácii service workera mažú
-PASS — všetky core súbory vracajú HTTP 200
-PASS — databáza: 700 hier / 700 unikátnych ID
-PASS — presne 100 hier pre každý vek 2–8 rokov
+PASS — flat GitHub root paths
+PASS — nový service worker cache key
+PASS — HTTP smoke test všetkých core súborov: {'/': 200, 'index.html': 200, 'styles.css': 200, 'app.js': 200, 'games.js': 200, 'manifest.webmanifest': 200, 'sw.js': 200, 'nudi-mascot.png': 200, 'nudi-logo.svg': 200, 'icon-192.png': 200, 'icon-512.png': 200}
 
-Tento build je zámerne FLAT: nevytvára priečinok assets.
-Je prispôsobený presne štruktúre, ktorú má používateľ aktuálne na GitHube.
+Poznámka:
+Tento QA dokáže overiť úplnosť, konzistenciu a zakázané šablónové formulácie.
+Skutočnú reakciu detí je vhodné následne overiť pilotným používaním s rodičmi.

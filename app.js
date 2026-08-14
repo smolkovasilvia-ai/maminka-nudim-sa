@@ -2,7 +2,7 @@
 'use strict';
 const $=s=>document.querySelector(s), $$=s=>Array.from(document.querySelectorAll(s));
 const G=window.MNS_GAMES||[];
-const K={profile:'nudi_v5_profile',state:'nudi_v5_state',history:'nudi_v5_history',fav:'nudi_v5_fav',ratings:'nudi_v5_ratings',inventory:'nudi_v5_inventory'};
+const K={profile:'nudi_v6_profile',state:'nudi_v6_state',history:'nudi_v6_history',fav:'nudi_v6_fav',ratings:'nudi_v6_ratings',inventory:'nudi_v6_inventory'};
 const load=(k,d)=>{try{return JSON.parse(localStorage.getItem(k))??d}catch{return d}}, save=(k,v)=>localStorage.setItem(k,JSON.stringify(v));
 let profile=load(K.profile,{name:'Ema',age:4,avatar:'🦊'});
 let state=load(K.state,{need:'peace',time:15,mess:'no',place:'home',cats:[],sound:false,motion:true});
@@ -44,7 +44,7 @@ function score(g,opt={}){
 }
 function ranked(opt={}){return G.map(g=>[g,score(g,opt)]).sort((a,b)=>b[1]-a[1]).map(x=>x[0])}
 function pick(opt={}){return ranked(opt)[0]||G[0]}
-function showSuggestion(g){current=g; $('#suggestTitle').textContent=g.title; $('#suggestEmoji').textContent=g.emoji||'🎲'; $('#suggestIntro').textContent=g.intro||g.say||''; $('#suggestMaterials').textContent=g.materials||'nič špeciálne'; $('#suggestMeta').innerHTML=[`${g.ageMin} r.`,`${g.time<10?'krátka':g.time<25?'tak akurát':'dlhšia'}`,g.prep<=1?'rýchla príprava':`príprava ${g.prep}/5`,g.noMess?'bez bordelu':'trochu chaos'].map(x=>`<span>${esc(x)}</span>`).join(''); $('#suggestPlan').innerHTML=[g.setup,'Povedz pripravenú vetu',...(g.steps||[]).slice(0,2),'Finále'].filter(Boolean).map(x=>`<li>${esc(x).slice(0,110)}${String(x).length>110?'…':''}</li>`).join(''); nav('suggestion');}
+function showSuggestion(g){current=g; $('#suggestTitle').textContent=g.title; $('#suggestEmoji').textContent=g.emoji||'🎲'; $('#suggestIntro').textContent=g.intro||g.say||''; $('#suggestMaterials').textContent=g.materials||'nič špeciálne'; $('#suggestMeta').innerHTML=[`${g.ageMin} r.`,`${g.time<10?'krátka':g.time<25?'tak akurát':'dlhšia'}`,g.prep<=1?'rýchla príprava':`príprava ${g.prep}/5`,g.noMess?'bez bordelu':'trochu chaos'].map(x=>`<span>${esc(x)}</span>`).join(''); $('#suggestPlan').innerHTML=[`PRIPRAV: ${g.setup}`,`POVEDZ: ${g.say}`,...(g.steps||[]).slice(0,2),`CIEĽ: ${g.finale}`].filter(Boolean).map(x=>`<li>${esc(x).slice(0,160)}${String(x).length>160?'…':''}</li>`).join(''); nav('suggestion');}
 function buildGameSteps(g){ const steps=[]; steps.push({t:'Priprav',x:g.setup||'Priprav pomôcky z karty.',hint:g.materials?`Pomôcky: ${g.materials}`:''}); steps.push({t:'Povedz dieťaťu',x:g.say||g.intro||'Ideme sa hrať!',hint:'Prečítaj pokojne a s nadšením. To je celý štart.'}); (g.steps||[]).forEach((x,i)=>steps.push({t:`Misia ${i+1}`,x,hint:i===0?'Ťukni Hotovo až keď dieťa spraví tento krok.':''})); steps.push({t:'Finále',x:g.finale||'Hotovo! Oslávte úspech.',hint:g.why?`Trénuje: ${g.why}`:''}); if(g.encore) steps.push({t:'Chce ešte?',x:g.encore,hint:'Toto je pripravené pokračovanie bez rozmýšľania.'}); return steps; }
 async function requestWake(){try{ if('wakeLock' in navigator) wakeLock=await navigator.wakeLock.request('screen'); }catch{}}
 function releaseWake(){try{wakeLock&&wakeLock.release()}catch{} wakeLock=null}
