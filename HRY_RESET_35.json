@@ -1,0 +1,1867 @@
+[
+  {
+    "id": "v6_2_02",
+    "title": "Ponožkový vláčik",
+    "emoji": "🧦",
+    "ageMin": 2,
+    "ageMax": 2,
+    "category": "calm",
+    "locations": [
+      "home"
+    ],
+    "time": 7,
+    "parentEnergy": "low",
+    "childEnergy": "normal",
+    "solo": false,
+    "noPrep": true,
+    "noMess": true,
+    "prep": 0,
+    "mess": 0,
+    "supervision": 2,
+    "soloScore": 2,
+    "siblings": true,
+    "tags": [
+      "calm",
+      "home"
+    ],
+    "materials": [
+      "4–6 čistých ponožiek"
+    ],
+    "tools": [],
+    "intro": "„Túúút! Ponožkový vláčik ide na stanicu. Potrebuje vagóny. Pomôžeš mu ich pripojiť?“",
+    "setup": "Polož ponožky do malej kôpky na zem. Jednu ponožku natiahni pred seba ako „lokomotívu“ a zvyšné nechaj bokom.",
+    "say": "„Túúút! Ponožkový vláčik ide na stanicu. Potrebuje vagóny. Pomôžeš mu ich pripojiť?“",
+    "steps": [
+      "Polož prvú ponožku za lokomotívu a povedz: „Prvý vagón.“ Nech dieťa položí ďalšiu ponožku hneď za ňu.",
+      "Povedz: „Vláčik potrebuje ešte jeden vagón.“ Nech dieťa pridá ďalšiu ponožku na koniec radu.",
+      "Keď je vláčik hotový, ukáž na jeho začiatok a pomaly povedz: „Túúút, ideme!“ Spolu posúvajte celý rad po podlahe k vopred zvolenému cieľu, napríklad ku skrini.",
+      "Pri skrini povedz: „Konečná stanica. Všetci vystupovať!“ Dieťa postupne vloží ponožky do zásuvky alebo košíka."
+    ],
+    "finale": "Hra končí, keď sú všetky ponožky odložené. Zatlieskaj a povedz: „Vláčik priviezol všetky vagóny domov.“",
+    "encore": "Spravte druhú jazdu, ale tentoraz dieťa vyberá, ktorá ponožka bude lokomotíva a kde bude konečná stanica.",
+    "easier": "Použi len tri ponožky a cieľ daj veľmi blízko.",
+    "harder": "Skúste striedať svetlú a tmavú ponožku alebo vytvoriť čo najdlhší rovný vláčik.",
+    "why": "jemnú motoriku, radenie za sebou a upratovanie formou hry",
+    "safety": "Hrajte na voľnej podlahe bez predmetov, o ktoré by dieťa mohlo zakopnúť.",
+    "mechanic": "match_sequence",
+    "prepText": "prakticky nič",
+    "parentRole": "Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.",
+    "ifStuck": "Použi len tri ponožky a cieľ daj veľmi blízko.",
+    "cleanup": "Upratanie je už súčasť posledného kroku hry.",
+    "parentPromise": "prakticky nič príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "peace",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_2_03",
+    "title": "Zvierací pochod",
+    "emoji": "🐘",
+    "ageMin": 2,
+    "ageMax": 2,
+    "category": "movement",
+    "locations": [
+      "home",
+      "outside"
+    ],
+    "time": 8,
+    "parentEnergy": "low",
+    "childEnergy": "hyper",
+    "solo": false,
+    "noPrep": true,
+    "noMess": true,
+    "prep": 0,
+    "mess": 0,
+    "supervision": 2,
+    "soloScore": 1,
+    "siblings": true,
+    "tags": [
+      "movement",
+      "home",
+      "outside"
+    ],
+    "materials": [],
+    "tools": [],
+    "intro": "„Zvieratká idú na výlet. Ja poviem zvieratko a my sa na chvíľu zmeníme presne naň.“",
+    "setup": "Vyber bezpečný voľný priestor približne dva až tri metre dlhý. Odlož z cesty hračky a stoličky, aby dieťa mohlo pohodlne kráčať.",
+    "say": "„Zvieratká idú na výlet. Ja poviem zvieratko a my sa na chvíľu zmeníme presne naň.“",
+    "steps": [
+      "Povedz: „Slon!“ Urob tri pomalé veľké kroky a rukou napodobni chobot. Dieťa ťa nasleduje.",
+      "Povedz: „Kačička!“ Sprav tri malé kroky s rukami pri tele a povedz „kač-kač“. Nech dieťa skúsi to isté.",
+      "Povedz: „Mačička!“ Choďte pár krokov po štyroch alebo, ak je to pohodlnejšie, len potichu našľapujte a mňaukajte.",
+      "Posledné zviera je „zajačik“. Spravte tri malé skoky alebo podrepy s vystretím. Potom sa zvieratká vrátia „domov“ na štart."
+    ],
+    "finale": "Sadnite si na štarte a povedz: „Výlet skončil. Všetky zvieratká sú doma.“ Dajte si zvierací high-five labkami.",
+    "encore": "Nech dieťa ukáže alebo pomenuje jedno vlastné zvieratko a ty ho napodobníš.",
+    "easier": "Stačia dve zvieratá a namiesto skokov rob len kroky.",
+    "harder": "Pridaj pravidlo „STOP“: keď povieš stop, obe zvieratká musia zamrznúť.",
+    "why": "hrubú motoriku, napodobňovanie, počúvanie a prepínanie medzi jednoduchými pokynmi",
+    "safety": "Neskáčte na šmykľavej podlahe a vyber pohyby, ktoré dieťa bezpečne zvláda.",
+    "mechanic": "movement_imitation",
+    "prepText": "prakticky nič",
+    "parentRole": "Hráš sa spolu s dieťaťom; appka vám hovorí presne, čo je ďalší krok.",
+    "ifStuck": "Stačia dve zvieratá a namiesto skokov rob len kroky.",
+    "cleanup": "Po finále spolu vráťte použité pomôcky na ich miesto.",
+    "parentPromise": "prakticky nič príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "energy",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_2_06",
+    "title": "Vankúšové ostrovy",
+    "emoji": "🏝️",
+    "ageMin": 2,
+    "ageMax": 2,
+    "category": "movement",
+    "locations": [
+      "home"
+    ],
+    "time": 8,
+    "parentEnergy": "normal",
+    "childEnergy": "hyper",
+    "solo": false,
+    "noPrep": false,
+    "noMess": true,
+    "prep": 1,
+    "mess": 0,
+    "supervision": 2,
+    "soloScore": 1,
+    "siblings": true,
+    "tags": [
+      "movement",
+      "home"
+    ],
+    "materials": [
+      "2–3 pevnejšie vankúše"
+    ],
+    "tools": [],
+    "intro": "„Podlaha je more. Vankúše sú ostrovy. Prejdeme na druhú stranu iba po ostrovoch.“",
+    "setup": "Polož dva alebo tri vankúše na koberec tesne za seba tak, aby medzi nimi bola len malá medzera. Okolo nech je voľný priestor.",
+    "say": "„Podlaha je more. Vankúše sú ostrovy. Prejdeme na druhú stranu iba po ostrovoch.“",
+    "steps": [
+      "Postav sa vedľa dieťaťa a ukáž prvý krok na prvý vankúš. Povedz: „Prvý ostrov.“",
+      "Nech dieťa prejde na druhý vankúš. Drž mu ruku, ak ju chce alebo potrebuje.",
+      "Na poslednom vankúši povedz: „Otočka!“ Otočte sa a choďte rovnakou cestou späť.",
+      "V poslednom kole polož na koniec plyšáka a povedz: „Zachráň plyšáka a dones ho domov po ostrovoch.“"
+    ],
+    "finale": "Keď je plyšák späť na štarte, povedz: „Záchranná loď dorazila. More je za nami.“",
+    "encore": "Presuň jeden vankúš o pár centimetrov a skúste novú cestu.",
+    "easier": "Použi iba dva vankúše tesne pri sebe a drž dieťa za obe ruky.",
+    "harder": "Pridaj pravidlo, že na každom ostrove treba raz tlesknúť pred ďalším krokom.",
+    "why": "rovnováhu, plánovanie kroku a koordináciu",
+    "safety": "Použi vankúše na nešmykľavom koberci, nie pri schodoch ani nábytku s ostrými hranami.",
+    "mechanic": "obstacle_path",
+    "prepText": "cca 30 sekúnd",
+    "parentRole": "Hráš sa spolu s dieťaťom; appka vám hovorí presne, čo je ďalší krok.",
+    "ifStuck": "Použi iba dva vankúše tesne pri sebe a drž dieťa za obe ruky.",
+    "cleanup": "Po finále spolu vráťte použité pomôcky na ich miesto.",
+    "parentPromise": "cca 30 sekúnd príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "energy",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_2_05",
+    "title": "Kde cinká lyžička?",
+    "emoji": "👂",
+    "ageMin": 2,
+    "ageMax": 2,
+    "category": "sensory",
+    "locations": [
+      "home",
+      "restaurant"
+    ],
+    "time": 6,
+    "parentEnergy": "low",
+    "childEnergy": "normal",
+    "solo": false,
+    "noPrep": true,
+    "noMess": true,
+    "prep": 0,
+    "mess": 0,
+    "supervision": 2,
+    "soloScore": 1,
+    "siblings": true,
+    "tags": [
+      "sensory",
+      "home",
+      "restaurant"
+    ],
+    "materials": [
+      "kovová lyžička a plastový pohár"
+    ],
+    "tools": [],
+    "intro": "„Počúvaj uškami. Lyžička sa bude skrývať a ty ukážeš, odkiaľ cinkla.“",
+    "setup": "Sadnite si oproti sebe. Lyžičku a plastový pohár polož pred seba. Dieťa nech najprv vidí, ako lyžičkou jemne cinkneš o pohár.",
+    "say": "„Počúvaj uškami. Lyžička sa bude skrývať a ty ukážeš, odkiaľ cinkla.“",
+    "steps": [
+      "Požiadaj dieťa, aby si na chvíľu zakrylo oči rukami alebo sa otočilo. Cinkni raz po svojej ľavej strane.",
+      "Povedz: „Kde cinkla?“ Nech dieťa ukáže smer. Hneď odokry lyžičku a povedz: „Tu bola!“",
+      "Zopakuj to na pravej strane a potom pred sebou. Vždy cinkni iba raz a nechaj dieťa hádať.",
+      "V poslednom kole daj lyžičku dieťaťu. Ty sa otoč a ono môže cinknúť z jednej strany. Ty hádaš."
+    ],
+    "finale": "Po poslednom hádaní polož lyžičku na stôl a povedz: „Ušká našli všetky cinknutia.“",
+    "encore": "Skúste rovnakú hru s jemným tlesknutím namiesto lyžičky, takže nepotrebujete žiadnu pomôcku.",
+    "easier": "Neschovávaj zvuk za dieťa; používaj len ľavú a pravú stranu, ktoré jasne vidí.",
+    "harder": "Striedaj hlasné a veľmi jemné cinknutie a pýtaj sa: „Bolo hlasné alebo tiché?“",
+    "why": "sluchové sústredenie, orientáciu podľa zvuku a striedanie rolí",
+    "safety": "Cinkaj jemne, nie pri uchu dieťaťa, a používaj plastový pohár, aby nevznikli ostré úlomky.",
+    "mechanic": "sound_location",
+    "prepText": "prakticky nič",
+    "parentRole": "Hráš sa spolu s dieťaťom; appka vám hovorí presne, čo je ďalší krok.",
+    "ifStuck": "Neschovávaj zvuk za dieťa; používaj len ľavú a pravú stranu, ktoré jasne vidí.",
+    "cleanup": "Po finále spolu vráťte použité pomôcky na ich miesto.",
+    "parentPromise": "prakticky nič príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "peace",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_2_01",
+    "title": "Nakŕm medvedíka",
+    "emoji": "🐻",
+    "ageMin": 2,
+    "ageMax": 2,
+    "category": "pretend",
+    "locations": [
+      "home"
+    ],
+    "time": 8,
+    "parentEnergy": "low",
+    "childEnergy": "normal",
+    "solo": false,
+    "noPrep": false,
+    "noMess": true,
+    "prep": 1,
+    "mess": 0,
+    "supervision": 2,
+    "soloScore": 1,
+    "siblings": true,
+    "tags": [
+      "pretend",
+      "home"
+    ],
+    "materials": [
+      "plyšový medvedík, miska a 5 väčších kociek alebo bezpečných predmetov"
+    ],
+    "tools": [],
+    "intro": "„Medvedík je veľmi hladný. Pomôžeme mu naplniť bruško? Každé jedlo mu musíme priniesť do misky.“",
+    "setup": "Polož medvedíka pred prázdnu misku. Päť väčších kociek daj asi meter od neho do malej kôpky. Nič ďalšie netreba pripravovať.",
+    "say": "„Medvedík je veľmi hladný. Pomôžeme mu naplniť bruško? Každé jedlo mu musíme priniesť do misky.“",
+    "steps": [
+      "Podaj dieťaťu jednu kocku a povedz: „Najprv jednu. Daj ju medvedíkovi do misky.“ Po vhodení sprav za medvedíka hlasné „Mňam!“.",
+      "Ukáž na kôpku a povedz: „Teraz dones dve jedlá.“ Pomôž počítať: „Jedna… dve.“ Obe nech dieťa vloží do misky.",
+      "Vyber jednu konkrétnu kocku a povedz: „Medvedík si prosí práve túto.“ Nech ju dieťa nájde a prinesie.",
+      "Na záver povedz: „Posledné jedlo! Ktoré mu dáme?“ Nech dieťa samo vyberie posledný predmet a vloží ho do misky."
+    ],
+    "finale": "Keď je všetkých päť predmetov v miske, pohlaďte medvedíka po brušku a povedz: „Medvedík je sýty. Ďakuje kuchárovi!“ Potom spolu vráťte kocky na miesto.",
+    "encore": "Ak chce pokračovať, medvedík začne byť „smädný“. Daj vedľa misky plastový pohárik a dieťa mu môže nosiť tri ďalšie bezpečné predmety ako predstierané nápoje.",
+    "easier": "Použi iba tri predmety a každú úlohu ukáž vlastným pohybom.",
+    "harder": "Rozdeľ kocky na dve farby a medvedík si vždy vypýta konkrétnu farbu.",
+    "why": "prenášanie, jednoduché počítanie, porozumenie pokynu a symbolickú hru",
+    "safety": "Použi iba predmety väčšie než riziková veľkosť na prehltnutie a zostaň pri dieťati počas celej hry.",
+    "mechanic": "pretend_feed",
+    "prepText": "cca 30 sekúnd",
+    "parentRole": "Hráš sa spolu s dieťaťom; appka vám hovorí presne, čo je ďalší krok.",
+    "ifStuck": "Použi iba tri predmety a každú úlohu ukáž vlastným pohybom.",
+    "cleanup": "Upratanie je už súčasť posledného kroku hry.",
+    "parentPromise": "cca 30 sekúnd príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "peace",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_3_01",
+    "title": "Ukradnutá dúha",
+    "emoji": "🌈",
+    "ageMin": 3,
+    "ageMax": 3,
+    "category": "brain",
+    "locations": [
+      "home"
+    ],
+    "time": 10,
+    "parentEnergy": "low",
+    "childEnergy": "normal",
+    "solo": true,
+    "noPrep": true,
+    "noMess": true,
+    "prep": 0,
+    "mess": 0,
+    "supervision": 1,
+    "soloScore": 3,
+    "siblings": true,
+    "tags": [
+      "brain",
+      "home"
+    ],
+    "materials": [],
+    "tools": [],
+    "intro": "„Pomóc! Z domu zmizla dúha. Musíme ju poskladať z vecí, ktoré nájdeme. Začíname červenou!“",
+    "setup": "Vyber miestnosť, v ktorej sú bežné farebné predmety. Nič neschovávaj ani nepripravuj; hra funguje s tým, čo už doma vidíte.",
+    "say": "„Pomóc! Z domu zmizla dúha. Musíme ju poskladať z vecí, ktoré nájdeme. Začíname červenou!“",
+    "steps": [
+      "Povedz: „Nájdi jednu červenú vec a dones ju sem.“ Keď ju dieťa prinesie, položte ju na zem ako prvú farbu dúhy.",
+      "Povedz: „Teraz potrebujeme žltú.“ Dieťa prinesie jednu žltú vec a položí ju vedľa červenej.",
+      "Rovnako nájdite jednu zelenú a jednu modrú vec. Pri každej farbe ju nahlas pomenuj.",
+      "Na záver povedz: „Dúhe chýba tvoja farba.“ Dieťa vyberie jednu obľúbenú farbu, nájde predmet a pridá ho na koniec."
+    ],
+    "finale": "Postavte sa pred farebný rad a povedz: „Dúha je zachránená!“ Potom dieťa odnesie každý predmet späť presne tam, kde ho našlo.",
+    "encore": "Zahrajte „bleskové kolo“: ty povieš jednu farbu a dieťa má nájsť predmet skôr, než pomaly napočítaš do desať.",
+    "easier": "Hľadajte iba dve farby a predmety môže dieťa len ukazovať, nemusí ich nosiť.",
+    "harder": "Pridaj pravidlo, že predmet nesmie byť hračka, alebo nech dieťa hľadá dva rôzne predmety rovnakej farby.",
+    "why": "farby, hľadanie podľa vlastnosti, pamäť miesta a upratovanie po hre",
+    "safety": "Vyberaj len predmety, ktoré dieťa môže bezpečne prenášať; vynechaj sklo, elektroniku a ťažké veci.",
+    "mechanic": "color_scavenger",
+    "prepText": "prakticky nič",
+    "parentRole": "Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.",
+    "ifStuck": "Hľadajte iba dve farby a predmety môže dieťa len ukazovať, nemusí ich nosiť.",
+    "cleanup": "Upratanie je už súčasť posledného kroku hry.",
+    "parentPromise": "prakticky nič príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "peace",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_3_02",
+    "title": "Záchrana plyšákov",
+    "emoji": "🧸",
+    "ageMin": 3,
+    "ageMax": 3,
+    "category": "movement",
+    "locations": [
+      "home"
+    ],
+    "time": 12,
+    "parentEnergy": "normal",
+    "childEnergy": "hyper",
+    "solo": false,
+    "noPrep": false,
+    "noMess": true,
+    "prep": 1,
+    "mess": 0,
+    "supervision": 2,
+    "soloScore": 2,
+    "siblings": true,
+    "tags": [
+      "movement",
+      "home"
+    ],
+    "materials": [
+      "3 plyšáky a košík alebo krabica"
+    ],
+    "tools": [],
+    "intro": "„Plyšáci uviazli na troch ostrovoch. Záchranár ich musí po jednom dostať do bezpečnej základne.“",
+    "setup": "Polož tri plyšáky na tri rôzne ľahko dostupné miesta v izbe, napríklad na stoličku, gauč a posteľ. Krabicu polož na zem ako „záchrannú základňu“.",
+    "say": "„Plyšáci uviazli na troch ostrovoch. Záchranár ich musí po jednom dostať do bezpečnej základne.“",
+    "steps": [
+      "Ukáž na prvého plyšáka a povedz: „Zachráň ho veľkými krokmi.“ Dieťa ho prinesie do krabice.",
+      "Pri druhom povedz: „K tomuto sa musíš dostať potichu po špičkách.“ Po prinesení ho vloží k prvému.",
+      "Pri treťom povedz: „Posledný plyšák čaká na záchranára, ktorý sa pohybuje ako mačka.“ Nech dieťa ide po štyroch alebo ticho prikrčené.",
+      "Keď sú všetci v krabici, povedz: „Kontrola posádky.“ Dieťa ich vytiahne po jednom a spočítate: jeden, dva, tri."
+    ],
+    "finale": "Položte plyšáky spolu na ich bežné miesto a povedz: „Záchranná akcia skončila. Všetci sú doma.“",
+    "encore": "Dieťa vyberie jedného plyšáka, schová ho na ľahké miesto a ty ho musíš zachrániť podľa jeho pohybového pokynu.",
+    "easier": "Plyšákov polož bližšie a použi iba dva rôzne spôsoby chôdze.",
+    "harder": "Pridaj štvrtého plyšáka a pri každom nech si dieťa zapamätá iný spôsob pohybu.",
+    "why": "hrubú motoriku, počúvanie pokynov a dokončenie úlohy",
+    "safety": "Plyšáky schovaj len na miesta dostupné bez lezenia na nábytok a bez skákania z výšky.",
+    "mechanic": "rescue_route",
+    "prepText": "cca 30 sekúnd",
+    "parentRole": "Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.",
+    "ifStuck": "Plyšákov polož bližšie a použi iba dva rôzne spôsoby chôdze.",
+    "cleanup": "Po finále spolu vráťte použité pomôcky na ich miesto.",
+    "parentPromise": "cca 30 sekúnd príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "energy",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_3_06",
+    "title": "Sochy na povel",
+    "emoji": "🗿",
+    "ageMin": 3,
+    "ageMax": 3,
+    "category": "movement",
+    "locations": [
+      "home",
+      "outside"
+    ],
+    "time": 8,
+    "parentEnergy": "low",
+    "childEnergy": "hyper",
+    "solo": false,
+    "noPrep": true,
+    "noMess": true,
+    "prep": 0,
+    "mess": 0,
+    "supervision": 2,
+    "soloScore": 1,
+    "siblings": true,
+    "tags": [
+      "movement",
+      "home",
+      "outside"
+    ],
+    "materials": [],
+    "tools": [],
+    "intro": "„Keď poviem POHYB, hýbeme sa. Keď poviem SOCHA, zamrzneme presne tam, kde sme.“",
+    "setup": "Vyber voľný priestor, kde sa dá bezpečne spraviť pár krokov. Dohodnite sa, že keď zaznie „SOCHA“, telo musí prestať hýbať.",
+    "say": "„Keď poviem POHYB, hýbeme sa. Keď poviem SOCHA, zamrzneme presne tam, kde sme.“",
+    "steps": [
+      "Povedz: „Pohyb!“ a spolu choďte po miestnosti. Po troch až piatich sekundách povedz: „SOCHA!“ a sám okamžite zamrzni.",
+      "Zopakuj, ale tentoraz sa pri „pohyb“ hýbte ako zajačiky malými podrepmi alebo krokmi.",
+      "V treťom kole sa pohybujte ako roboti: rovné ruky, pomalé kroky. Znovu striedaj „pohyb“ a „socha“.",
+      "Posledné kolo vedie dieťa. Ono povie „pohyb“ a „socha“ a ty ho poslušne nasleduješ."
+    ],
+    "finale": "Po poslednej soche povedz: „Múzeum sa zatvára.“ Spoločne sa pomaly „odmrazte“ a sadnite si.",
+    "encore": "Pridajte zábavnú sochu: pri zastavení musí mať každý ruky nad hlavou alebo jednu ruku na brušku.",
+    "easier": "Použi len normálnu chôdzu, bez podrepov a rýchlych pohybov.",
+    "harder": "Pri „socha“ povedz aj emóciu, napríklad veselá alebo prekvapená socha, a tvár tomu prispôsobte.",
+    "why": "sebakontrolu pohybu, počúvanie signálu a napodobňovanie",
+    "safety": "Hrajte mimo schodov, kobercov čo sa šmýkajú a predmetov, o ktoré sa dá zakopnúť.",
+    "mechanic": "freeze_movement",
+    "prepText": "prakticky nič",
+    "parentRole": "Hráš sa spolu s dieťaťom; appka vám hovorí presne, čo je ďalší krok.",
+    "ifStuck": "Použi len normálnu chôdzu, bez podrepov a rýchlych pohybov.",
+    "cleanup": "Po finále spolu vráťte použité pomôcky na ich miesto.",
+    "parentPromise": "prakticky nič príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "energy",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_3_05",
+    "title": "Ponožková polícia",
+    "emoji": "🧦",
+    "ageMin": 3,
+    "ageMax": 3,
+    "category": "brain",
+    "locations": [
+      "home"
+    ],
+    "time": 10,
+    "parentEnergy": "low",
+    "childEnergy": "normal",
+    "solo": true,
+    "noPrep": true,
+    "noMess": true,
+    "prep": 0,
+    "mess": 0,
+    "supervision": 1,
+    "soloScore": 3,
+    "siblings": true,
+    "tags": [
+      "brain",
+      "home"
+    ],
+    "materials": [
+      "4 páry čistých ponožiek"
+    ],
+    "tools": [],
+    "intro": "„Ponožky sa stratili svojim parťákom. Ponožková polícia musí nájsť, ktoré dve patria k sebe.“",
+    "setup": "Rozdeľ štyri páry ponožiek a všetkých osem kusov premiešaj na podlahe. Uisti sa, že páry sa od seba dajú vizuálne rozoznať.",
+    "say": "„Ponožky sa stratili svojim parťákom. Ponožková polícia musí nájsť, ktoré dve patria k sebe.“",
+    "steps": [
+      "Zober jednu ponožku a povedz: „Hľadáme jej dvojča.“ Polož vedľa nej dve možné ponožky, z ktorých jedna je správna. Nech dieťa vyberie pár.",
+      "Keď pár nájde, položte ho bokom do „bezpečia“ a povedz: „Jeden prípad vyriešený.“",
+      "Vyber ďalšiu ponožku a tentoraz nech dieťa hľadá medzi všetkými zostávajúcimi. Pomôž otázkou: „Má rovnakú farbu alebo obrázok?“",
+      "Pokračujte, kým nevzniknú štyri páry. Potom ich po pároch vložte do zásuvky alebo košíka."
+    ],
+    "finale": "Keď sú všetky ponožky odložené, povedz: „Ponožková polícia našla všetkých parťákov. Prípady uzavreté.“",
+    "encore": "Vezmi jeden pár a „pomýľ sa“ zámerne. Dieťa má povedať alebo ukázať, či si pár vytvoril správne.",
+    "easier": "Použi iba dva páry s veľmi odlišnými farbami.",
+    "harder": "Pridaj pár, ktorý je podobný inému, a nech dieťa vysvetlí, podľa čoho spoznalo správnu dvojicu.",
+    "why": "párovanie, vizuálne porovnávanie a praktické upratovanie",
+    "safety": "Použi čisté ponožky a hrajte na podlahe mimo schodov alebo prekážok.",
+    "mechanic": "pair_matching",
+    "prepText": "prakticky nič",
+    "parentRole": "Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.",
+    "ifStuck": "Použi iba dva páry s veľmi odlišnými farbami.",
+    "cleanup": "Upratanie je už súčasť posledného kroku hry.",
+    "parentPromise": "prakticky nič príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "peace",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_3_10",
+    "title": "Čo zmizlo?",
+    "emoji": "👀",
+    "ageMin": 3,
+    "ageMax": 3,
+    "category": "calm",
+    "locations": [
+      "home",
+      "restaurant",
+      "travel"
+    ],
+    "time": 7,
+    "parentEnergy": "low",
+    "childEnergy": "normal",
+    "solo": false,
+    "noPrep": true,
+    "noMess": true,
+    "prep": 0,
+    "mess": 0,
+    "supervision": 2,
+    "soloScore": 2,
+    "siblings": true,
+    "tags": [
+      "calm",
+      "home",
+      "restaurant"
+    ],
+    "materials": [
+      "3 známe predmety"
+    ],
+    "tools": [],
+    "intro": "„Pozri si všetky tri veci. O chvíľu jedna tajne zmizne a ty budeš detektív.“",
+    "setup": "Polož pred dieťa tri odlišné známe predmety, napríklad lyžicu, autíčko a ponožku. Nech si ich pár sekúnd prezrie.",
+    "say": "„Pozri si všetky tri veci. O chvíľu jedna tajne zmizne a ty budeš detektív.“",
+    "steps": [
+      "Pomenujte spolu všetky tri predmety. Potom povedz: „Zakry oči.“ alebo nech sa dieťa otočí.",
+      "Jeden predmet schovaj za chrbát. Povedz: „Otvor oči. Čo zmizlo?“",
+      "Po odpovedi predmet ukáž a všetky tri vráť na stôl. Zopakuj s iným predmetom.",
+      "V poslednom kole sa otočíš ty. Dieťa schová jeden predmet a ty hádaš. Ak sa „pomýliš“, nech ťa opraví."
+    ],
+    "finale": "Vráťte všetky tri predmety pred seba a povedz: „Detektív našiel všetky zmiznuté veci.“",
+    "encore": "Pridaj štvrtý predmet a zahrajte jedno ťažšie kolo.",
+    "easier": "Použi iba dva predmety a pred schovaním každý jasne pomenuj.",
+    "harder": "Namiesto jedného predmetu presuň jeden na iné miesto a dieťa háda, čo sa zmenilo.",
+    "why": "vizuálnu pamäť, pomenovanie predmetov a striedanie rolí",
+    "safety": "Vyber bezpečné predmety, ktoré môže dieťa chytať a ktoré sa pri páde nerozbijú.",
+    "mechanic": "missing_object",
+    "prepText": "prakticky nič",
+    "parentRole": "Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.",
+    "ifStuck": "Použi iba dva predmety a pred schovaním každý jasne pomenuj.",
+    "cleanup": "Upratanie je už súčasť posledného kroku hry.",
+    "parentPromise": "prakticky nič príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "peace",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_4_01",
+    "title": "Prípad strateného dinosaura",
+    "emoji": "🦖",
+    "ageMin": 4,
+    "ageMax": 4,
+    "category": "pretend",
+    "locations": [
+      "home"
+    ],
+    "time": 12,
+    "parentEnergy": "normal",
+    "childEnergy": "normal",
+    "solo": false,
+    "noPrep": false,
+    "noMess": true,
+    "prep": 2,
+    "mess": 0,
+    "supervision": 2,
+    "soloScore": 2,
+    "siblings": true,
+    "tags": [
+      "pretend",
+      "home"
+    ],
+    "materials": [
+      "malý dinosaurus alebo iná hračka a 3 malé papieriky"
+    ],
+    "tools": [],
+    "intro": "„Máme problém! Malý dinosaurus sa stratil a nechal po sebe tajné stopy. Potrebujem najlepšieho detektíva v dome. Ideš ho zachrániť?“",
+    "setup": "Pred hrou sprav presne toto: (1) schovaj dinosaura pod posteľ; (2) prvú nápovedu polož na stôl; (3) druhú nápovedu polož ku knihám; (4) tretiu nápovedu polož k topánkam. Ak dieťa ešte nečíta, papiere nemusia mať text — stačí, že mu po nájdení každého papierika prečítaš ďalšiu vetu z appky.",
+    "say": "„Máme problém! Malý dinosaurus sa stratil a nechal po sebe tajné stopy. Potrebujem najlepšieho detektíva v dome. Ideš ho zachrániť?“",
+    "steps": [
+      "STOPA 1: Prečítaj: „Nájdi miesto, kde bývajú knihy.“ Dieťa ide ku knihám a nájde druhý papier.",
+      "STOPA 2: Prečítaj: „Výborne, detektív. Teraz choď tam, kde odkladáme topánky.“ Pri topánkach nájde tretí papier.",
+      "STOPA 3: Prečítaj: „Dinosaurus je už veľmi blízko. Hľadaj tam, kde v noci spíš.“ Dieťa ide k posteli.",
+      "Nech dieťa pod posteľou nájde dinosaura. Ak ho nevidí, pomôž slovami „teplejšie“ a „studenšie“ bez presúvania hračky."
+    ],
+    "finale": "Keď dinosaura nájde, povedz: „NAŠIEL SI HO! Dinosaurus je zachránený. Detektívna misia splnená!“ Nech dieťa prinesie dinosaura späť na štart.",
+    "encore": "Otočte role. Dieťa schová dinosaura na ľahké miesto a dá ti tri slovné nápovedy. Ak nevie, pýtaj sa: „Je v izbe, kuchyni alebo kúpeľni?“",
+    "easier": "Použi iba dve nápovedy: knihy a posteľ. Dinosaura schovaj tak, aby bol čiastočne viditeľný.",
+    "harder": "Pridaj jednu medzi-stopu, napríklad stôl, a nech dieťa na každej stanici splní malú úlohu, napríklad raz tleskne.",
+    "why": "porozumenie nápovedám, orientáciu doma, pamäť a príbehovú hru",
+    "safety": "Hračku schovaj iba na ľahko dostupné miesto; dieťa nesmie liezť na nábytok ani siahať k zásuvkám alebo káblom.",
+    "mechanic": "clue_hunt",
+    "prepText": "cca 1–2 minúty",
+    "parentRole": "Príprava trvá asi minútu. Potom už len čítaš tri nápovedy v poradí, ktoré ukazuje appka.",
+    "ifStuck": "Použi iba dve nápovedy: knihy a posteľ. Dinosaura schovaj tak, aby bol čiastočne viditeľný.",
+    "cleanup": "Po finále spolu vráťte použité pomôcky na ich miesto.",
+    "parentPromise": "cca 1–2 minúty príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "together"
+    ]
+  },
+  {
+    "id": "v6_4_03",
+    "title": "Robot na diaľkové",
+    "emoji": "🤖",
+    "ageMin": 4,
+    "ageMax": 4,
+    "category": "movement",
+    "locations": [
+      "home",
+      "outside"
+    ],
+    "time": 10,
+    "parentEnergy": "low",
+    "childEnergy": "normal",
+    "solo": false,
+    "noPrep": true,
+    "noMess": true,
+    "prep": 0,
+    "mess": 0,
+    "supervision": 2,
+    "soloScore": 1,
+    "siblings": true,
+    "tags": [
+      "movement",
+      "home",
+      "outside"
+    ],
+    "materials": [],
+    "tools": [],
+    "intro": "„Ty si robot a ja mám neviditeľné diaľkové ovládanie. Robot smie urobiť iba presne to, čo diaľkové povie.“",
+    "setup": "Vyber bezpečný voľný priestor. Vysvetli iba štyri povely: „dopredu“, „stop“, „otoč sa“ a „sadni“. Najprv ich všetky raz ukáž.",
+    "say": "„Ty si robot a ja mám neviditeľné diaľkové ovládanie. Robot smie urobiť iba presne to, čo diaľkové povie.“",
+    "steps": [
+      "Povedz: „DOPREDU.“ Robot spraví tri pomalé kroky. Potom hneď povedz: „STOP.“ a robot zamrzne.",
+      "Povedz: „OTOČ SA.“ Robot sa otočí raz okolo seba. Potom znovu „STOP.“",
+      "Povedz: „DOPREDU, STOP, SADNI.“ Povely hovor s krátkou pauzou, aby dieťa stíhalo reagovať.",
+      "V poslednom kole sa role otočia. Dieťa drží neviditeľné diaľkové a dáva tebe tri povely z dohodnutej štvorice."
+    ],
+    "finale": "Po poslednom povele povedz: „Robot sa vypína.“ Spravte zvuk „píp-píp“ a obaja si pokojne sadnite.",
+    "encore": "Pridajte nový povel „TANEC“, ktorý trvá len tri sekundy a končí slovom „STOP“.",
+    "easier": "Používaj iba dva povely: dopredu a stop.",
+    "harder": "Dávaj dvojice povelov za sebou, napríklad „dopredu – otoč sa“, ktoré si robot musí zapamätať.",
+    "why": "sebakontrolu, počúvanie, pracovnú pamäť a orientáciu v pohybe",
+    "safety": "Povely dávaj len na bezpečné pohyby; žiadny beh naslepo, cúvanie pri schodoch ani skákanie z nábytku.",
+    "mechanic": "command_follow",
+    "prepText": "prakticky nič",
+    "parentRole": "Hráš sa spolu s dieťaťom; appka vám hovorí presne, čo je ďalší krok.",
+    "ifStuck": "Používaj iba dva povely: dopredu a stop.",
+    "cleanup": "Po finále spolu vráťte použité pomôcky na ich miesto.",
+    "parentPromise": "prakticky nič príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "energy",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_4_02",
+    "title": "Ostrov sa potápa",
+    "emoji": "🏴‍☠️",
+    "ageMin": 4,
+    "ageMax": 4,
+    "category": "movement",
+    "locations": [
+      "home"
+    ],
+    "time": 12,
+    "parentEnergy": "normal",
+    "childEnergy": "hyper",
+    "solo": false,
+    "noPrep": false,
+    "noMess": true,
+    "prep": 1,
+    "mess": 0,
+    "supervision": 2,
+    "soloScore": 1,
+    "siblings": true,
+    "tags": [
+      "movement",
+      "home"
+    ],
+    "materials": [
+      "3 pevné vankúše a jeden plyšák"
+    ],
+    "tools": [],
+    "intro": "„Kapitán! Ostrov sa potápa a plyšák zostal na druhej strane mora. Podlahy sa nesmieš dotknúť. Zachrániš ho?“",
+    "setup": "Polož tri vankúše na koberec približne 30–40 cm od seba. Plyšáka polož na posledný vankúš. Okolo nech je voľný priestor.",
+    "say": "„Kapitán! Ostrov sa potápa a plyšák zostal na druhej strane mora. Podlahy sa nesmieš dotknúť. Zachrániš ho?“",
+    "steps": [
+      "Prejdi po troch vankúšoch k plyšákovi. Na každom vankúši sa zastav oboma nohami, až potom choď ďalej.",
+      "Zober plyšáka. Povedz: „Žraloky si ťa všimli! Na každom ostrove môžeš zostať iba do troch.“ Pri každom vankúši pomaly počítaj 1–2–3.",
+      "Vráť sa s plyšákom na štart po rovnakej trase. Ak treba, môžeš dieťaťu podať ruku.",
+      "Na štarte polož plyšáka do „bezpečia“ na gauč alebo stoličku a nech dieťa zakýva ostrovom na rozlúčku."
+    ],
+    "finale": "Povedz: „Plyšák je zachránený a záchranná loď je doma.“ Dajte si kapitánsky high-five.",
+    "encore": "Presuň jeden vankúš o pár centimetrov do strany a skúste novú záchrannú cestu.",
+    "easier": "Vankúše daj bližšie a vynechaj počítanie do troch.",
+    "harder": "Na každom ostrove pridaj inú úlohu: raz tlesknúť, otočiť sa alebo povedať meno zvieraťa.",
+    "why": "rovnováhu, plánovanie pohybu, počítanie a príbehovú motiváciu",
+    "safety": "Použi vankúše na nešmykľavom povrchu a hrajte ďaleko od schodov, stolov a ostrých hrán.",
+    "mechanic": "obstacle_rescue",
+    "prepText": "cca 30 sekúnd",
+    "parentRole": "Hráš sa spolu s dieťaťom; appka vám hovorí presne, čo je ďalší krok.",
+    "ifStuck": "Vankúše daj bližšie a vynechaj počítanie do troch.",
+    "cleanup": "Po finále spolu vráťte použité pomôcky na ich miesto.",
+    "parentPromise": "cca 30 sekúnd príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "energy",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_4_06",
+    "title": "Čo sa zmenilo?",
+    "emoji": "🕵️",
+    "ageMin": 4,
+    "ageMax": 4,
+    "category": "calm",
+    "locations": [
+      "home",
+      "restaurant"
+    ],
+    "time": 8,
+    "parentEnergy": "low",
+    "childEnergy": "normal",
+    "solo": false,
+    "noPrep": true,
+    "noMess": true,
+    "prep": 0,
+    "mess": 0,
+    "supervision": 2,
+    "soloScore": 2,
+    "siblings": true,
+    "tags": [
+      "calm",
+      "home",
+      "restaurant"
+    ],
+    "materials": [
+      "4 drobné, ale bezpečné predmety"
+    ],
+    "tools": [],
+    "intro": "„Pozri si túto zostavu ako detektív. Keď sa otočíš, ja zmením jednu jedinú vec. Ty musíš zistiť ktorú.“",
+    "setup": "Polož štyri odlišné predmety do jedného radu. Dieťa má desať sekúnd na pozeranie. Potom sa otočí alebo si zakryje oči.",
+    "say": "„Pozri si túto zostavu ako detektív. Keď sa otočíš, ja zmením jednu jedinú vec. Ty musíš zistiť ktorú.“",
+    "steps": [
+      "Pomenujte spolu všetky štyri predmety a ich poradie zľava doprava.",
+      "Dieťa sa otočí. Ty prehoď miesto dvom predmetom. Povedz: „Hotovo.“ Dieťa sa otočí a ukáže, čo sa zmenilo.",
+      "Vráť predmety do pôvodného poradia. Druhé kolo: jeden predmet otoč alebo posuň bližšie k inému, nič neodoberaj.",
+      "Posledné kolo vedie dieťa. Ty sa otočíš a ono spraví jednu zmenu. Ty ju skúsiš odhaliť."
+    ],
+    "finale": "Keď odhalíte poslednú zmenu, povedz: „Detektívne oči fungujú. Prípad uzavretý.“ Predmety spolu odložte.",
+    "encore": "Pridaj piate kolo, v ktorom sa jeden predmet iba mierne posunie, nie prehodí.",
+    "easier": "Použi iba tri predmety a zmenu urob veľmi výraznú.",
+    "harder": "Použi päť predmetov a namiesto presunu jeden na chvíľu úplne schovaj.",
+    "why": "vizuálnu pamäť, pozornosť k detailu a porovnávanie pred/po",
+    "safety": "Použi predmety bez malých odnímateľných častí a bez ostrých hrán.",
+    "mechanic": "spot_change",
+    "prepText": "prakticky nič",
+    "parentRole": "Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.",
+    "ifStuck": "Použi iba tri predmety a zmenu urob veľmi výraznú.",
+    "cleanup": "Upratanie je už súčasť posledného kroku hry.",
+    "parentPromise": "prakticky nič príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "peace",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_4_09",
+    "title": "Hádaj podľa troch slov",
+    "emoji": "💬",
+    "ageMin": 4,
+    "ageMax": 4,
+    "category": "brain",
+    "locations": [
+      "home",
+      "travel",
+      "restaurant"
+    ],
+    "time": 8,
+    "parentEnergy": "low",
+    "childEnergy": "normal",
+    "solo": false,
+    "noPrep": true,
+    "noMess": true,
+    "prep": 0,
+    "mess": 0,
+    "supervision": 2,
+    "soloScore": 2,
+    "siblings": true,
+    "tags": [
+      "brain",
+      "home",
+      "travel",
+      "restaurant"
+    ],
+    "materials": [],
+    "tools": [],
+    "intro": "„Ja ti poviem tri malé nápovedy a ty uhádneš, čo mám v hlave.“",
+    "setup": "Vyber si päť veľmi známych predmetov alebo zvierat, ktoré dieťa určite pozná. Hra nepotrebuje nič na stole ani žiadnu prípravu.",
+    "say": "„Ja ti poviem tri malé nápovedy a ty uhádneš, čo mám v hlave.“",
+    "steps": [
+      "Povedz: „Je to zviera. Má fúzy. Hovorí mňau.“ Počkaj na odpoveď mačka a pochváľ presné uhádnutie.",
+      "Povedz: „Je to jedlo. Je žlté. Ošúpeš ho.“ Odpoveď je banán.",
+      "Povedz: „Je to vec. Má štyri kolesá. Jazdí po ceste.“ Odpoveď je auto.",
+      "Posledné kolo vedie dieťa. Pomôž mu vytvoriť tri nápovedy otázkami: „Je to zviera alebo vec? Akú má farbu? Čo robí?“ Ty hádaš."
+    ],
+    "finale": "Keď obaja uhádnete aspoň jednu vec, povedz: „Hádacia kancelária zatvára. Všetky tajomstvá sme odhalili.“",
+    "encore": "Zahrajte ešte jedno kolo s obľúbenou rozprávkovou postavou alebo členom rodiny.",
+    "easier": "Použi iba dve nápovedy a veľmi známe odpovede.",
+    "harder": "Zakáž najľahšiu nápovedu, napríklad zvuk zvieraťa, a nech dieťa rozmýšľa podľa vlastností.",
+    "why": "slovnú zásobu, spájanie vlastností a tvorbu jednoduchých opisov",
+    "safety": "Bez špeciálnych rizík; pri hraní v aute hru vedie iba spolujazdec, nie vodič.",
+    "mechanic": "three_clue_riddle",
+    "prepText": "prakticky nič",
+    "parentRole": "Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.",
+    "ifStuck": "Použi iba dve nápovedy a veľmi známe odpovede.",
+    "cleanup": "Po finále spolu vráťte použité pomôcky na ich miesto.",
+    "parentPromise": "prakticky nič príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "peace",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_5_01",
+    "title": "Papierový most",
+    "emoji": "🌉",
+    "ageMin": 5,
+    "ageMax": 5,
+    "category": "brain",
+    "locations": [
+      "home"
+    ],
+    "time": 18,
+    "parentEnergy": "normal",
+    "childEnergy": "normal",
+    "solo": false,
+    "noPrep": false,
+    "noMess": true,
+    "prep": 2,
+    "mess": 0,
+    "supervision": 2,
+    "soloScore": 2,
+    "siblings": true,
+    "tags": [
+      "brain",
+      "home"
+    ],
+    "materials": [
+      "2 rovnaké knihy, 2 papiere A4 a malé ľahké autíčko alebo 5 LEGO kociek"
+    ],
+    "tools": [],
+    "intro": "„Autíčko sa potrebuje dostať cez rieku. Máme len papier. Najprv zistíme, či obyčajný papier dokáže byť mostom, a potom ho skúsime spevniť.“",
+    "setup": "Polož dve knihy na stôl približne 15 cm od seba ako brehy rieky. Jeden papier nechaj rovný, druhý polož bokom. Autíčko alebo kocky priprav vedľa.",
+    "say": "„Autíčko sa potrebuje dostať cez rieku. Máme len papier. Najprv zistíme, či obyčajný papier dokáže byť mostom, a potom ho skúsime spevniť.“",
+    "steps": [
+      "Polož prvý papier naplocho medzi knihy. Dieťa naň veľmi pomaly položí autíčko alebo jednu kocku. Sledujte, ako sa papier prehne.",
+      "Zober druhý papier a spolu ho poskladajte do harmoniky: striedavo prelož malý pásik dopredu a dozadu, až vznikne tvar /\\/\\/\\/.",
+      "Polož harmoniku medzi knihy a na ňu autíčko alebo jednu kocku. Porovnajte: drží lepšie než rovný papier?",
+      "Záťažová skúška: pridávajte po jednej LEGO kocke a nahlas počítajte, koľko ich harmonikový most unesie, kým sa výrazne neprehne."
+    ],
+    "finale": "Odstráň kocky a povedz: „Most prešiel skúškou. Zistili sme, že rovnaký papier môže byť silnejší, keď zmeníme jeho tvar.“ Potom most rozoberte.",
+    "encore": "Odsuň knihy o 2–3 cm ďalej od seba a otestujte, či harmonika zvládne rovnaký počet kociek aj na dlhšom rozpätí.",
+    "easier": "Knihy daj bližšie k sebe a testujte iba s autíčkom bez pridávania záťaže.",
+    "harder": "Dieťa dostane ešte jeden papier a môže navrhnúť inú konštrukciu, napríklad zrolovaný papierový nosník, ktorý potom rovnako otestujete.",
+    "why": "experimentovanie, príčinu a následok, konštrukčné myslenie a počítanie",
+    "safety": "Použi iba ľahké kocky a stabilný stôl; knihy nesmú byť položené pri okraji, aby nespadli na nohy.",
+    "mechanic": "paper_engineering",
+    "prepText": "cca 1–2 minúty",
+    "parentRole": "Ty iba položíš dve knihy a podáš papier. Dieťa skúša riešenia; appka ti povie, kedy spraviť každý test.",
+    "ifStuck": "Knihy daj bližšie k sebe a testujte iba s autíčkom bez pridávania záťaže.",
+    "cleanup": "Na konci odložte autíčko a oba papiere; knihy vráť na miesto.",
+    "parentPromise": "cca 1–2 minúty príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "together"
+    ]
+  },
+  {
+    "id": "v6_5_03",
+    "title": "Domáci minigolf",
+    "emoji": "⛳",
+    "ageMin": 5,
+    "ageMax": 5,
+    "category": "movement",
+    "locations": [
+      "home"
+    ],
+    "time": 15,
+    "parentEnergy": "normal",
+    "childEnergy": "normal",
+    "solo": false,
+    "noPrep": false,
+    "noMess": true,
+    "prep": 2,
+    "mess": 0,
+    "supervision": 2,
+    "soloScore": 2,
+    "siblings": true,
+    "tags": [
+      "movement",
+      "home"
+    ],
+    "materials": [
+      "zrolované ponožky ako loptička, varecha alebo kartónová rolka ako palica a 3 plastové poháre"
+    ],
+    "tools": [],
+    "intro": "„Otvárame domáci minigolf. Cieľ je dostať ponožkovú loptičku do troch jamiek s čo najmenším počtom úderov.“",
+    "setup": "Polož tri plastové poháre na bok ako tri „jamky“ v rôznej vzdialenosti. Zroluj pár ponožiek do mäkkej loptičky. Vyber miesto bez rozbitných vecí.",
+    "say": "„Otvárame domáci minigolf. Cieľ je dostať ponožkovú loptičku do troch jamiek s čo najmenším počtom úderov.“",
+    "steps": [
+      "Začni pri najbližšom pohári. Dieťa varechou jemne posúva ponožku po podlahe, kým sa nedotkne otvoru pohára alebo doň nevletí. Počítajte údery.",
+      "Presuňte sa k druhému poháru. Povedz: „Skús teraz udrieť slabšie, ak loptička uteká príliš ďaleko.“ Znovu počítajte.",
+      "Tretia jamka je najďalej. Pred prvým úderom nech dieťa ukáže, kam chce loptičku poslať, až potom udrie.",
+      "Na záver spočítajte iba slovne: „Prvá jamka mala __ úderov, druhá __, tretia __.“ Nie je dôležité vyhrať; cieľ je všetky dokončiť."
+    ],
+    "finale": "Keď prejdete tri jamky, zdvihni ponožkovú loptičku a povedz: „Turnaj je dohraný. Všetky tri jamky máme.“ Potom poháre aj varechu odložte.",
+    "encore": "Dieťa môže postaviť jednu vlastnú jamku z pohára a určiť štartovaciu čiaru pre rodiča.",
+    "easier": "Použi iba jednu jamku vo vzdialenosti asi meter a loptičku môže dieťa posúvať rukou.",
+    "harder": "Pridaj jednu prekážku, napríklad krabicu, ktorú musí loptička obísť, nie preskočiť.",
+    "why": "odhad sily, koordináciu oko–ruka, plánovanie smeru a jednoduché počítanie",
+    "safety": "Používaj iba mäkkú ponožkovú loptičku a plastové pomôcky; nehrajte pri skle, TV ani schodoch.",
+    "mechanic": "target_aim",
+    "prepText": "cca 1–2 minúty",
+    "parentRole": "Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.",
+    "ifStuck": "Použi iba jednu jamku vo vzdialenosti asi meter a loptičku môže dieťa posúvať rukou.",
+    "cleanup": "Upratanie je už súčasť posledného kroku hry.",
+    "parentPromise": "cca 1–2 minúty príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "energy",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_5_07",
+    "title": "Kocková veža na objednávku",
+    "emoji": "🏗️",
+    "ageMin": 5,
+    "ageMax": 5,
+    "category": "brain",
+    "locations": [
+      "home"
+    ],
+    "time": 15,
+    "parentEnergy": "low",
+    "childEnergy": "normal",
+    "solo": true,
+    "noPrep": true,
+    "noMess": true,
+    "prep": 0,
+    "mess": 1,
+    "supervision": 1,
+    "soloScore": 3,
+    "siblings": true,
+    "tags": [
+      "brain",
+      "home"
+    ],
+    "materials": [
+      "10–15 väčších kociek alebo LEGO Duplo"
+    ],
+    "tools": [],
+    "intro": "„Stavebná firma prijíma objednávky. Ja som zákazník a ty staviteľ. Postavíš presne to, čo si objednám?“",
+    "setup": "Kocky vysyp na koberec alebo stôl. Rodič si pripraví tri presné objednávky, ktoré bude zadávať postupne, nie naraz.",
+    "say": "„Stavebná firma prijíma objednávky. Ja som zákazník a ty staviteľ. Postavíš presne to, čo si objednám?“",
+    "steps": [
+      "Objednávka 1: „Postav vežu zo štyroch kociek.“ Po dokončení spolu spočítajte poschodia.",
+      "Objednávka 2: „Postav vežu, ktorá má dole dve kocky vedľa seba a na nich ešte dve.“ Ak treba, ukáž len polohu rúk, nie hotovú stavbu.",
+      "Objednávka 3: „Postav čokoľvek, čo má aspoň jednu červenú alebo inú vybranú farebnú kocku úplne hore.“",
+      "Na záver sa role otočia. Dieťa dá tebe jednu konkrétnu objednávku a ty ju postavíš. Ono skontroluje, či si zadanie splnil."
+    ],
+    "finale": "Povedz: „Stavebná firma dokončila tri zákazky.“ Vyberte jednu stavbu ako víťaznú, odfoťte ju len ak chcete, potom kocky odložte.",
+    "encore": "Dieťa môže zadať ešte jednu „bláznivú objednávku“, napríklad most pre plyšáka.",
+    "easier": "Objednávky obmedz na počty do troch a jednoduchú vežu.",
+    "harder": "Zadaj dvojpodmienku, napríklad „šesť kociek, ale dve musia byť modré a nesmú byť vedľa seba“.",
+    "why": "počúvanie zadania, priestorové plánovanie, počítanie a kontrolu výsledku",
+    "safety": "Používaj kocky primerané veku a nedovoľ hádzanie kociek po miestnosti.",
+    "mechanic": "build_to_spec",
+    "prepText": "prakticky nič",
+    "parentRole": "Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.",
+    "ifStuck": "Objednávky obmedz na počty do troch a jednoduchú vežu.",
+    "cleanup": "Upratanie je už súčasť posledného kroku hry.",
+    "parentPromise": "prakticky nič príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "peace",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_5_04",
+    "title": "Príšerka podľa diktátu",
+    "emoji": "👾",
+    "ageMin": 5,
+    "ageMax": 5,
+    "category": "creative",
+    "locations": [
+      "home",
+      "restaurant"
+    ],
+    "time": 15,
+    "parentEnergy": "normal",
+    "childEnergy": "normal",
+    "solo": false,
+    "noPrep": false,
+    "noMess": true,
+    "prep": 1,
+    "mess": 1,
+    "supervision": 2,
+    "soloScore": 2,
+    "siblings": true,
+    "tags": [
+      "creative",
+      "home",
+      "restaurant"
+    ],
+    "materials": [
+      "papier a pastelky"
+    ],
+    "tools": [],
+    "intro": "„Ja poznám tajnú príšerku, ale ty ju nevidíš. Budem ju opisovať krok po kroku a ty ju nakreslíš presne podľa mojich slov.“",
+    "setup": "Každý má jeden papier alebo sa striedate na jednom. Pastelky polož doprostred. Rodič má pripravený presný opis prvej príšerky.",
+    "say": "„Ja poznám tajnú príšerku, ale ty ju nevidíš. Budem ju opisovať krok po kroku a ty ju nakreslíš presne podľa mojich slov.“",
+    "steps": [
+      "Povedz: „Nakresli veľké okrúhle telo.“ Počkaj, kým dieťa dokončí.",
+      "Povedz: „Pridaj tri oči hore na tele. Jedno nech je väčšie než ostatné.“",
+      "Povedz: „Nakresli dve dlhé nohy a na každej tri prsty.“ Potom pridaj: „A teraz jeden obrovský úsmev.“",
+      "Ukážte si výsledok a príšerke spoločne dajte meno. Potom si vymeňte role: dieťa opisuje svoju príšerku a ty ju kreslíš bez pozerania na jeho papier."
+    ],
+    "finale": "Položte obrázky vedľa seba a povedz: „Dve príšerky dostali podobu iba zo slov. Ateliér zatvára.“",
+    "encore": "Dieťa vyberie jednu smiešnu vlastnosť navyše, napríklad klobúk v tvare banánu, a obaja ju dokreslíte.",
+    "easier": "Diktuj iba tri prvky: telo, dve oči a ústa.",
+    "harder": "Používaj pri opise polohu: nad, pod, vedľa, vľavo a vpravo.",
+    "why": "počúvanie viacstupňových pokynov, priestorové pojmy a kreativitu",
+    "safety": "Použi umývateľné pastelky a pri malých súrodencoch odlož drobné uzávery mimo ich dosahu.",
+    "mechanic": "draw_from_instructions",
+    "prepText": "cca 30 sekúnd",
+    "parentRole": "Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.",
+    "ifStuck": "Diktuj iba tri prvky: telo, dve oči a ústa.",
+    "cleanup": "Po finále spolu vráťte použité pomôcky na ich miesto.",
+    "parentPromise": "cca 30 sekúnd príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "peace",
+      "together"
+    ]
+  },
+  {
+    "ageMax": 5,
+    "category": "movement",
+    "locations": [
+      "home"
+    ],
+    "time": 12,
+    "prep": 1,
+    "mess": 0,
+    "soloScore": 1,
+    "materials": [
+      "1 pár zrolovaných ponožiek",
+      "2 vankúše alebo dve bezpečné značky na zemi"
+    ],
+    "easier": "Daj iba jeden vankúš a použi dva spôsoby pohybu: veľké kroky tam, po špičkách späť.",
+    "harder": "Dieťa si pred štartom zapamätá všetky tri spôsoby pohybu a rodič ich počas cesty už nepripomína.",
+    "why": "Pohyb, pamäť poradia a kontrola tela.",
+    "safety": "Hrajte iba na rovnom nešmykľavom povrchu a bez behu. Vankúše nepoužívaj na hladkej dlažbe, ak sa posúvajú.",
+    "parentRole": "Priprav dve značky, prečítaj jednotlivé etapy a potom už len sleduj bezpečnosť.",
+    "ifStuck": "Ukáž dieťaťu prvý pohyb spolu s ním a nech ďalšie etapy iba zopakuje po tebe.",
+    "cleanup": "Ponožky dajte do koša na prádlo alebo zásuvky a vankúše vráťte na miesto.",
+    "id": "reset-5-balickova-stafeta",
+    "title": "Balíková štafeta",
+    "emoji": "📦",
+    "ageMin": 5,
+    "situations": [
+      "energy",
+      "together"
+    ],
+    "setup": "Polož prvý vankúš približne dva metre od štartu a druhý ďalšie dva metre za ním. Zrolované ponožky polož na štart ako „tajný balík“. Uisti sa, že medzi bodmi nie sú hračky ani šmykľavé predmety.",
+    "say": "„Kuriér, máme expresný balík! Musí prejsť cez dve kontrolné stanice a nesmie spadnúť na zem. Každá stanica má iný spôsob dopravy.“",
+    "steps": [
+      "Zober ponožkový balík do oboch rúk. K prvému vankúšu sa dostaň piatimi veľkými krokmi. Keď naň stúpiš, zastav a zdvihni balík nad hlavu.",
+      "Od prvého k druhému vankúšu choď bokom ako krab. Balík drž pri bruchu. Ak spadne, zdvihni ho presne tam, kde spadol, a pokračuj — nezačínaš odznova.",
+      "Na druhom vankúši sprav tri pomalé drepy s balíkom v rukách. Potom sa otoč smerom k štartu; posledná cesta je po špičkách.",
+      "Vráť balík na štart a polož ho presne na miesto, odkiaľ vyrazil. Rodič povie „zásielka doručená“ až vtedy, keď balík leží na zemi a kuriér stojí vedľa neho."
+    ],
+    "finale": "Povedz: „Expresná zásielka dorazila bez straty nákladu. Kuriérska misia splnená!“ Dajte si high-five a oba vankúše vráťte na miesto.",
+    "encore": "Druhé kolo: cestu tam určí dieťa tromi bezpečnými spôsobmi pohybu, napríklad veľké kroky, po špičkách a pomalé poskoky.",
+    "prepText": "do 1 min"
+  },
+  {
+    "id": "v6_6_05",
+    "title": "Kód semaforu",
+    "emoji": "🚦",
+    "ageMin": 6,
+    "ageMax": 6,
+    "category": "brain",
+    "locations": [
+      "home",
+      "outside",
+      "travel"
+    ],
+    "time": 12,
+    "parentEnergy": "low",
+    "childEnergy": "normal",
+    "solo": false,
+    "noPrep": false,
+    "noMess": true,
+    "prep": 1,
+    "mess": 0,
+    "supervision": 2,
+    "soloScore": 2,
+    "siblings": true,
+    "tags": [
+      "brain",
+      "home",
+      "outside"
+    ],
+    "materials": [
+      "tri papiere alebo predmety vo farbách červená, žltá a zelená"
+    ],
+    "tools": [],
+    "intro": "„Toto nie je obyčajný semafor. Každá farba je tajný pohybový kód. Musíš reagovať skôr hlavou než nohami.“",
+    "setup": "Polož tri farby pred dieťa. Dohodnite presný kód: zelená = tri kroky dopredu, žltá = jeden drep alebo dotyk kolien, červená = úplne zamrznúť.",
+    "say": "„Toto nie je obyčajný semafor. Každá farba je tajný pohybový kód. Musíš reagovať skôr hlavou než nohami.“",
+    "steps": [
+      "Ukáž zelenú a nech dieťa spraví presne tri kroky. Potom ukáž červenú a musí okamžite zastaviť.",
+      "Ukáž žltú, dieťa spraví jeden drep alebo sa dotkne kolien. Hneď potom červenú – zamrzne.",
+      "Začni farby meniť v nepravidelnom poradí, vždy však počkaj na dokončenie pohybu pred ďalším signálom.",
+      "Posledné kolo vedie dieťa a ty si hráč. Ak sa pomýliš, dieťa musí povedať, ktorý pohyb patril k farbe."
+    ],
+    "finale": "Polož všetky tri farby vedľa seba a povedz: „Kód semaforu máme rozlúštený. Premávka končí.“",
+    "encore": "Zmeň význam jednej farby a zahrajte krátke kolo s novým kódom.",
+    "easier": "Použi len zelenú a červenú.",
+    "harder": "Pridaj modrú farbu s novým pravidlom, napríklad otočka, a občas ukáž dve farby za sebou ako dvojkrokový kód.",
+    "why": "pracovnú pamäť, inhibíciu reakcie a rýchle prepínanie pravidiel",
+    "safety": "Hrajte na rovnom povrchu a pohyby nech sú pomalé; žiadny beh ani prudké skoky.",
+    "mechanic": "rule_switching",
+    "prepText": "cca 30 sekúnd",
+    "parentRole": "Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.",
+    "ifStuck": "Použi len zelenú a červenú.",
+    "cleanup": "Po finále spolu vráťte použité pomôcky na ich miesto.",
+    "parentPromise": "cca 30 sekúnd príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "energy",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_6_01",
+    "title": "Laserová chodba",
+    "emoji": "🕸️",
+    "ageMin": 6,
+    "ageMax": 6,
+    "category": "movement",
+    "locations": [
+      "home"
+    ],
+    "time": 20,
+    "parentEnergy": "normal",
+    "childEnergy": "hyper",
+    "solo": false,
+    "noPrep": false,
+    "noMess": true,
+    "prep": 3,
+    "mess": 0,
+    "supervision": 2,
+    "soloScore": 2,
+    "siblings": true,
+    "tags": [
+      "movement",
+      "home"
+    ],
+    "materials": [
+      "papierová maliarska páska alebo mäkká priadza a chodba medzi dvoma pevnými bodmi vo výške pod pásom"
+    ],
+    "tools": [],
+    "intro": "„Agent, pred tebou je laserová chodba. Musíš sa dostať na druhú stranu bez dotyku jediného lúča.“",
+    "setup": "V krátkej chodbe vytvor 4–5 „laserov“ z maliarskej pásky medzi stenou a nábytkom alebo z priadze priviazanej veľmi voľne. Všetky línie musia byť pod výškou pásu alebo pri zemi, nikdy pri krku a nikdy naprieč schodmi.",
+    "say": "„Agent, pred tebou je laserová chodba. Musíš sa dostať na druhú stranu bez dotyku jediného lúča.“",
+    "steps": [
+      "Nech dieťa najprv stojí na štarte a desať sekúnd si trasu iba prezerá. Povedz: „Najprv plán, potom pohyb.“",
+      "Spusti prvý pokus. Dieťa prechádza pomaly ponad alebo popod nízke línie. Ak sa dotkne, povedz iba „laser“ a vráti sa na posledné bezpečné miesto, nie úplne na začiatok.",
+      "Na druhej strane polož malý predmet ako tajný čip. Dieťa ho vezme a musí sa vrátiť tou istou trasou späť.",
+      "Po návrate nech povie, ktorý laser bol najťažší a ako sa cez neho dostalo. Potom spolu chodbu rozoberte."
+    ],
+    "finale": "Povedz: „Čip je v bezpečí a alarm sa nespustil. Agent úspešne dokončil misiu.“",
+    "encore": "Zmeň polohu jedného nízkeho lasera a nech dieťa pred druhým pokusom vysvetlí novú trasu.",
+    "easier": "Použi iba tri línie s veľkými medzerami a žiadny návrat s predmetom.",
+    "harder": "Pridaj pravidlo, že dieťa musí niesť ľahký „čip“ na dlani bez toho, aby mu spadol.",
+    "why": "plánovanie tela v priestore, rovnováhu, trpezlivosť a sebareguláciu",
+    "safety": "Nikdy neveď šnúru vo výške krku alebo tváre, cez schody ani do miest, kde by sa dieťa mohlo zachytiť; páska sa musí ľahko odlepiť.",
+    "mechanic": "navigate_obstacles",
+    "prepText": "cca 3 minúty",
+    "parentRole": "Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.",
+    "ifStuck": "Použi iba tri línie s veľkými medzerami a žiadny návrat s predmetom.",
+    "cleanup": "Po finále spolu vráťte použité pomôcky na ich miesto.",
+    "parentPromise": "cca 3 minúty príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "energy",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_6_04",
+    "title": "Príbeh z piatich predmetov",
+    "emoji": "📚",
+    "ageMin": 6,
+    "ageMax": 6,
+    "category": "pretend",
+    "locations": [
+      "home",
+      "travel"
+    ],
+    "time": 18,
+    "parentEnergy": "low",
+    "childEnergy": "normal",
+    "solo": false,
+    "noPrep": false,
+    "noMess": true,
+    "prep": 1,
+    "mess": 0,
+    "supervision": 2,
+    "soloScore": 2,
+    "siblings": true,
+    "tags": [
+      "pretend",
+      "home",
+      "travel"
+    ],
+    "materials": [
+      "5 bezpečných náhodných predmetov z okolia alebo z tašky"
+    ],
+    "tools": [],
+    "intro": "„Z týchto piatich úplne nesúvisiacich vecí musíme spolu vytvoriť jeden príbeh. Každá vec sa v ňom musí naozaj objaviť.“",
+    "setup": "Vyber päť rôznych predmetov, napríklad kľúč, ponožku, lyžicu, malú hračku a papier. Polož ich do radu, aby boli všetky viditeľné.",
+    "say": "„Z týchto piatich úplne nesúvisiacich vecí musíme spolu vytvoriť jeden príbeh. Každá vec sa v ňom musí naozaj objaviť.“",
+    "steps": [
+      "Rodič začne prvou vetou a použije prvý predmet: „Jedného dňa našiel Max tajomný kľúč…“",
+      "Dieťa pokračuje jednou alebo dvoma vetami a musí do príbehu dostať druhý predmet. Ak nevie, spýtaj sa: „Na čo by tú ponožku mohol potrebovať?“",
+      "Striedajte sa, kým sa objavia všetky predmety. Každý, kto je na rade, musí nadviazať na to, čo povedal predchádzajúci.",
+      "Keď použijete piaty predmet, spolu vymyslite jednu poslednú vetu, ktorá príbeh uzavrie, napríklad návratom domov alebo vyriešením problému."
+    ],
+    "finale": "Povedz: „Príbeh má začiatok, všetkých päť predmetov aj koniec.“ Dieťa mu vymyslí názov a tým hra končí.",
+    "encore": "Zamiešajte poradie predmetov a skúste vymyslieť úplne iný dvojminútový príbeh s rovnakými vecami.",
+    "easier": "Použi iba tri predmety a rodič môže tvoriť každú druhú vetu.",
+    "harder": "Pridaj pravidlo, že príbeh musí obsahovať problém aj riešenie a nesmie skončiť vetou „a potom sa zobudil“.",
+    "why": "tvorbu príbehu, nadväzovanie na cudziu myšlienku, fantáziu a slovné vyjadrenie",
+    "safety": "Pri cestovaní používaj iba predmety, ktoré bezpečne zostanú v priestore spolujazdca; vodič sa do manipulácie nezapája.",
+    "mechanic": "story_chain",
+    "prepText": "cca 30 sekúnd",
+    "parentRole": "Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.",
+    "ifStuck": "Použi iba tri predmety a rodič môže tvoriť každú druhú vetu.",
+    "cleanup": "Po finále spolu vráťte použité pomôcky na ich miesto.",
+    "parentPromise": "cca 30 sekúnd príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "peace",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_6_02",
+    "title": "Papierová veža: 10 minút",
+    "emoji": "🏙️",
+    "ageMin": 6,
+    "ageMax": 6,
+    "category": "creative",
+    "locations": [
+      "home"
+    ],
+    "time": 18,
+    "parentEnergy": "normal",
+    "childEnergy": "normal",
+    "solo": true,
+    "noPrep": false,
+    "noMess": false,
+    "prep": 2,
+    "mess": 2,
+    "supervision": 1,
+    "soloScore": 3,
+    "siblings": true,
+    "tags": [
+      "creative",
+      "home"
+    ],
+    "materials": [
+      "5 papierov A4 a maliarska páska"
+    ],
+    "tools": [],
+    "intro": "„Stavebná výzva: z piatich papierov a pásky postav vežu, ktorá bude stáť sama a bude čo najvyššia. Máš desať minút.“",
+    "setup": "Papiere a krátke kúsky pásky polož na stôl. Nastav časovač na 10 minút, ale ešte ho nespúšťaj. Cieľom je postaviť samostatne stojacu vežu.",
+    "say": "„Stavebná výzva: z piatich papierov a pásky postav vežu, ktorá bude stáť sama a bude čo najvyššia. Máš desať minút.“",
+    "steps": [
+      "Pred štartom daj dieťaťu jednu minútu na plánovanie bez lepenia. Môže papiere skúsiť rolovať alebo skladať nasucho.",
+      "Spusti 10 minút. Dieťa stavia. Rodič nepovie riešenie; môže iba pripomenúť: „Veža musí stáť sama, keď pustíš ruky.“",
+      "V polovici času povedz: „Päť minút.“ Dieťa môže testovať stabilitu tým, že na dve sekundy pustí ruky.",
+      "Po skončení času musí veža stáť sama aspoň päť sekúnd. Zmerajte ju pravítkom, ak ho máte, alebo porovnajte s fľašou či knihou."
+    ],
+    "finale": "Povedz: „Stavebný čas skončil. Veža stojí __ sekúnd a toto je náš finálny dizajn.“ Potom si dieťa môže vysvetliť, čo fungovalo najlepšie.",
+    "encore": "Dajte si druhé kolo iba s tromi papiermi a skúste prekonať prvú vežu iným tvarom.",
+    "easier": "Bez časovača postavte spolu nižšiu vežu a rodič môže ukázať zrolovanie papiera do valca.",
+    "harder": "Pridaj podmienku: veža musí na vrchu udržať jednu malú LEGO kocku päť sekúnd.",
+    "why": "konštrukčné myslenie, plánovanie, experimentovanie a prácu s časom",
+    "safety": "Použi maliarsku pásku a papier; nožnice netreba. Vežu nestavajte na okraji stola.",
+    "mechanic": "tower_engineering",
+    "prepText": "cca 1–2 minúty",
+    "parentRole": "Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.",
+    "ifStuck": "Bez časovača postavte spolu nižšiu vežu a rodič môže ukázať zrolovanie papiera do valca.",
+    "cleanup": "Po finále spolu vráťte použité pomôcky na ich miesto.",
+    "parentPromise": "cca 1–2 minúty príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "together"
+    ]
+  },
+  {
+    "id": "v6_6_06",
+    "title": "Predmetový súd",
+    "emoji": "⚖️",
+    "ageMin": 6,
+    "ageMax": 6,
+    "category": "pretend",
+    "locations": [
+      "home",
+      "travel"
+    ],
+    "time": 15,
+    "parentEnergy": "normal",
+    "childEnergy": "normal",
+    "solo": false,
+    "noPrep": true,
+    "noMess": true,
+    "prep": 0,
+    "mess": 0,
+    "supervision": 2,
+    "soloScore": 2,
+    "siblings": true,
+    "tags": [
+      "pretend",
+      "home"
+    ],
+    "materials": [
+      "3 bežné bezpečné predmety, napríklad ponožka, lyžica a vankúš"
+    ],
+    "tools": [],
+    "intro": "„Dnes zasadne predmetový súd. Každá vec musí dokázať, že je užitočná. Ty rozhodneš, ktorý predmet má najsilnejší argument.“",
+    "setup": "Polož tri predmety na stôl. Vysvetli, že každý predmet bude „obhajovať“, prečo je pre domácnosť dôležitý, a dieťa bude sudca.",
+    "say": "„Dnes zasadne predmetový súd. Každá vec musí dokázať, že je užitočná. Ty rozhodneš, ktorý predmet má najsilnejší argument.“",
+    "steps": [
+      "Zober ponožku a povedz za ňu: „Chrání nohy pred zimou.“ Spýtaj sa dieťaťa: „Je to dobrý dôvod?“",
+      "Zober lyžicu. Dieťa má vymyslieť aspoň jeden dôvod, prečo je užitočná. Ak potrebuje pomoc, spýtaj sa: „Čo s ňou robíme pri jedle?“",
+      "Pri vankúši sa vymeňte: rodič je sudca a dieťa obhajca. Musí povedať jeden alebo dva dôvody.",
+      "Na záver dieťa vyberie „víťaza súdu“ a povie jednu vetu: „Vyhráva ___, pretože ___.“"
+    ],
+    "finale": "Povedz: „Súd končí. Všetky predmety sa vracajú do svojich domovov.“ Spoločne ich odložte.",
+    "encore": "Vyberte jeden smiešny predmet, napríklad rolku papiera, a skúste nájsť tri rôzne dôvody, prečo by mohol byť užitočný.",
+    "easier": "Rodič ponúkne dva možné dôvody a dieťa len vyberie ten, ktorý dáva väčší zmysel.",
+    "harder": "Dieťa musí nájsť aj jeden argument proti predmetu, napríklad „vankúš sa nedá použiť na jedenie“.",
+    "why": "argumentáciu, slovné vyjadrenie, porovnávanie a humor",
+    "safety": "Použi iba čisté, bezpečné predmety a po hre ich vráťte na miesto.",
+    "mechanic": "argument_game",
+    "prepText": "prakticky nič",
+    "parentRole": "Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.",
+    "ifStuck": "Rodič ponúkne dva možné dôvody a dieťa len vyberie ten, ktorý dáva väčší zmysel.",
+    "cleanup": "Upratanie je už súčasť posledného kroku hry.",
+    "parentPromise": "prakticky nič príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "peace",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_7_04",
+    "title": "Tajná šifra posunu",
+    "emoji": "🔐",
+    "ageMin": 7,
+    "ageMax": 7,
+    "category": "brain",
+    "locations": [
+      "home",
+      "travel"
+    ],
+    "time": 20,
+    "parentEnergy": "normal",
+    "childEnergy": "normal",
+    "solo": true,
+    "noPrep": false,
+    "noMess": true,
+    "prep": 1,
+    "mess": 1,
+    "supervision": 1,
+    "soloScore": 3,
+    "siblings": true,
+    "tags": [
+      "brain",
+      "home",
+      "travel"
+    ],
+    "materials": [
+      "papier a ceruzka"
+    ],
+    "tools": [],
+    "intro": "„Každé písmeno sa v tejto šifre prezlieklo za písmeno o jedno miesto ďalej. Našou úlohou je vrátiť každé písmeno o krok späť.“",
+    "setup": "Napíš na papier abecedu bez diakritiky A B C D E F G H I J K L M N O P Q R S T U V W X Y Z. Pod ňu napíš rovnaký rad posunutý o jedno miesto: B C D E F G H I J K L M N O P Q R S T U V W X Y Z A. Priprav správu „EPN“ podľa pravidla A→B, B→C atď., čo po dekódovaní dá „DOM“ len ak použiješ zodpovedajúcu tabuľku; skontroluj správu vopred.",
+    "say": "„Každé písmeno sa v tejto šifre prezlieklo za písmeno o jedno miesto ďalej. Našou úlohou je vrátiť každé písmeno o krok späť.“",
+    "steps": [
+      "Ukáž príklad: zakódované B znamená pôvodné A. Zakódované C znamená B. Nech dieťa nájde v tabuľke ešte jeden vlastný príklad.",
+      "Daj mu krátke zakódované slovo EPN. Spolu postupujte písmeno po písmene: E→D, P→O, N→M. Výsledok je DOM.",
+      "Napíš druhé krátke slovo, ktoré si vopred zakóduješ rovnakým pravidlom, napríklad PES → QFT. Dieťa ho skúsi rozlúštiť samostatne s tabuľkou.",
+      "Na záver dieťa napíše jedno trojpísmenové slovo bez diakritiky, zakóduje každé písmeno o krok dopredu a dá ho tebe na rozlúštenie."
+    ],
+    "finale": "Povedz: „Šifrovací stroj funguje oboma smermi: vieme správu zakódovať aj vrátiť späť.“ Tabuľku si môžete odložiť.",
+    "encore": "Vymyslite si tajné trojpísmenové heslo pre rodinu a zakódujte ho na lístok.",
+    "easier": "Použi iba trojicu písmen A–F a jednoduché dvojpísmenové kombinácie.",
+    "harder": "Posúvaj písmená o dva kroky a nech dieťa samo vytvorí nový kľúč.",
+    "why": "prácu so systémovým pravidlom, písmená, logiku a kontrolu postupu",
+    "safety": "Pri cestovaní píše iba spolujazdec; vodič sa hry nezúčastňuje.",
+    "mechanic": "cipher_shift",
+    "prepText": "cca 30 sekúnd",
+    "parentRole": "Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.",
+    "ifStuck": "Použi iba trojicu písmen A–F a jednoduché dvojpísmenové kombinácie.",
+    "cleanup": "Upratanie je už súčasť posledného kroku hry.",
+    "parentPromise": "cca 30 sekúnd príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "peace",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_7_06",
+    "title": "Reklamná agentúra: 30 sekúnd",
+    "emoji": "🎬",
+    "ageMin": 7,
+    "ageMax": 7,
+    "category": "pretend",
+    "locations": [
+      "home",
+      "travel"
+    ],
+    "time": 18,
+    "parentEnergy": "normal",
+    "childEnergy": "normal",
+    "solo": true,
+    "noPrep": false,
+    "noMess": true,
+    "prep": 1,
+    "mess": 0,
+    "supervision": 1,
+    "soloScore": 3,
+    "siblings": true,
+    "tags": [
+      "pretend",
+      "home"
+    ],
+    "materials": [
+      "ľubovoľný bezpečný predmet a časovač"
+    ],
+    "tools": [],
+    "intro": "„Si reklamná agentúra. Máš tridsať sekúnd, aby si presvedčil zákazníka, že tento obyčajný predmet je absolútne nevyhnutný.“",
+    "setup": "Vyber predmet, napríklad hrnček, ceruzku alebo vankúš. Dieťa má najprv dve minúty na prípravu a potom 30 sekúnd na reklamu.",
+    "say": "„Si reklamná agentúra. Máš tridsať sekúnd, aby si presvedčil zákazníka, že tento obyčajný predmet je absolútne nevyhnutný.“",
+    "steps": [
+      "Najprv spolu vytvorte tri povinné body reklamy: názov produktu, jedna skutočná výhoda a jedna smiešna vymyslená superfunkcia.",
+      "Dieťa má dve minúty na tiché plánovanie. Môže si na papier napísať tri kľúčové slová, nie celý text.",
+      "Spusti 30-sekundový časovač. Dieťa predvedie reklamu od začiatku do konca bez prerušovania. Rodič je zákazník.",
+      "Po reklame polož presne jednu otázku zákazníka: „Prečo by som si to mal kúpiť práve dnes?“ Dieťa odpovie jednou vetou."
+    ],
+    "finale": "Povedz: „Kampaň je odovzdaná klientovi.“ Potom dieťa samo zhodnotí, ktorá časť reklamy bola najpresvedčivejšia.",
+    "encore": "Rodič dostane iný predmet a musí spraviť vlastnú 30-sekundovú reklamu, ktorú dieťa ohodnotí jedným komplimentom.",
+    "easier": "Časovač vypni a rodič môže počas reklamy pomáhať otázkami.",
+    "harder": "Pridaj cieľovú skupinu, napríklad „reklama pre astronautov“ alebo „pre ľudí, ktorí nenávidia rána“.",
+    "why": "argumentáciu, tvorivé myslenie, stručné verejné vyjadrenie a humor",
+    "safety": "Používaj bezpečný predmet a pri nahrávaní videa nezdieľajte dieťa online bez vedomého rozhodnutia rodiča.",
+    "mechanic": "timed_pitch",
+    "prepText": "cca 30 sekúnd",
+    "parentRole": "Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.",
+    "ifStuck": "Časovač vypni a rodič môže počas reklamy pomáhať otázkami.",
+    "cleanup": "Po finále spolu vráťte použité pomôcky na ich miesto.",
+    "parentPromise": "cca 30 sekúnd príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "peace",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_7_09",
+    "title": "Forenzný detektív: Odtlačky textúr",
+    "emoji": "🔍",
+    "ageMin": 7,
+    "ageMax": 7,
+    "category": "sensory",
+    "locations": [
+      "home"
+    ],
+    "time": 20,
+    "parentEnergy": "normal",
+    "childEnergy": "normal",
+    "solo": false,
+    "noPrep": false,
+    "noMess": true,
+    "prep": 2,
+    "mess": 1,
+    "supervision": 2,
+    "soloScore": 2,
+    "siblings": true,
+    "tags": [
+      "sensory",
+      "home"
+    ],
+    "materials": [
+      "papier, mäkká ceruzka a 5 bezpečných textúrovaných povrchov, napríklad minca pod dohľadom, list, LEGO podložka, reliéfna krabička a drevený povrch"
+    ],
+    "tools": [],
+    "intro": "„Na miestach činu zostali iba textúry. Vyrobíme ich odtlačky a potom skúsime podľa nich uhádnuť, z čoho vznikli.“",
+    "setup": "Priprav papier a ceruzku. Vyber povrchy, na ktoré sa dá papier položiť. Technika je jednoduchá: papier sa položí na reliéf a bokom grafitu sa jemne prechádza po papieri, kým sa objaví vzor.",
+    "say": "„Na miestach činu zostali iba textúry. Vyrobíme ich odtlačky a potom skúsime podľa nich uhádnuť, z čoho vznikli.“",
+    "steps": [
+      "Ukáž techniku na prvom povrchu, napríklad liste. Papier drž na mieste a bokom ceruzky jemne tieňuj, kým sa objaví štruktúra.",
+      "Dieťa vytvorí ďalšie tri odtlačky. Pri každom napíšte malé číslo 1–4, ale nepíšte názov predmetu.",
+      "Premiešajte papiere. Rodič ukáže jeden odtlačok a dieťa háda, z ktorého pripraveného povrchu vznikol. Potom výsledok overíte priložením.",
+      "Posledný odtlačok vytvorí rodič tajne z jedného z povrchov a dieťa ho musí určiť iba podľa vzoru."
+    ],
+    "finale": "Povedz: „Forenzné laboratórium porovnalo všetky vzory a našlo ich zdroje.“ Na zadnú stranu môžete dopísať správne odpovede.",
+    "encore": "Nájdite jeden nový bezpečný povrch v domácnosti a pridajte piaty „neznámy odtlačok“.",
+    "easier": "Použi iba dva veľmi rozdielne povrchy a odtlačky porovnávajte hneď.",
+    "harder": "Dieťa zoradí odtlačky od najjemnejšej po najvýraznejšiu textúru a obháji poradie.",
+    "why": "pozorovanie detailov, porovnávanie vzorov, jemnú motoriku a dedukciu",
+    "safety": "Ceruzku používajte na stabilnom stole; mincu či drobné predmety po hre okamžite odlož mimo malých detí.",
+    "mechanic": "forensic_texture",
+    "prepText": "cca 1–2 minúty",
+    "parentRole": "Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.",
+    "ifStuck": "Použi iba dva veľmi rozdielne povrchy a odtlačky porovnávajte hneď.",
+    "cleanup": "Po finále spolu vráťte použité pomôcky na ich miesto.",
+    "parentPromise": "cca 1–2 minúty príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "together"
+    ]
+  },
+  {
+    "ageMax": 7,
+    "category": "movement",
+    "locations": [
+      "home"
+    ],
+    "time": 10,
+    "prep": 0,
+    "mess": 0,
+    "soloScore": 1,
+    "materials": [],
+    "easier": "Hraj iba 3–2–1 a pred každým číslom ešte raz pripomeň pohyb.",
+    "harder": "Dieťa vymyslí nový štvormiestny kód s vlastnými štyrmi bezpečnými pohybmi a otestuje rodiča.",
+    "why": "Pracovná pamäť, koordinácia a kontrolovaný pohyb.",
+    "safety": "Žiadny beh ani rýchle otáčanie. Ak dieťaťu drepy nie sú príjemné, nahraď ich tromi dotykmi kolien.",
+    "parentRole": "Prečítaj kód a sleduj bezpečnosť; nemusíš vymýšľať ďalšie úlohy.",
+    "ifStuck": "Polož štyri prsty pred dieťa a pri každom čísle krátko ukáž príslušný pohyb.",
+    "cleanup": "Nič sa neupratuje.",
+    "id": "reset-7-pohybovy-kod",
+    "title": "Pohybový kód 4–3–2–1",
+    "emoji": "🕶️",
+    "ageMin": 7,
+    "situations": [
+      "energy",
+      "together"
+    ],
+    "setup": "Vyber voľný priestor, kde sa dá spraviť pár krokov a drepov bez nárazu do nábytku. Nič netreba chystať. Dohodnite sa, že všetky pohyby sú pomalé a kontrolované — nejde o rýchlosť.",
+    "say": "„Agent, trezor sa otvorí iba po správnom pohybovom kóde. Kód je 4–3–2–1 a každé číslo znamená presnú úlohu. Musíš si celé poradie zapamätať.“",
+    "steps": [
+      "ČÍSLO 4: sprav štyri bočné kroky doprava a štyri späť doľava. Po návrate na štart povedz nahlas „štyri hotovo“.",
+      "ČÍSLO 3: sprav tri pomalé drepy. Päty nech zostanú na zemi a po každom drepe sa úplne postav.",
+      "ČÍSLO 2: dvakrát sa dotkni pravou rukou ľavého kolena a potom ľavou rukou pravého kolena. Každý pár sa ráta ako jeden.",
+      "ČÍSLO 1: postav sa na päť sekúnd úplne nehybne ako bezpečnostná socha. Ak zvládneš celý kód bez pripomenutia, trezor je otvorený."
+    ],
+    "finale": "Povedz: „Kód 4–3–2–1 sedí. Trezor sa otvoril!“ Dieťa si môže vymyslieť tajný predmet, ktorý bol v trezore, a jednou vetou povedať, prečo bol taký dôležitý.",
+    "encore": "Zahrajte kód odzadu: 1–2–3–4. Rodič už iba povie číslo a dieťa musí vedieť, ktorý pohyb k nemu patrí.",
+    "prepText": "bez prípravy"
+  },
+  {
+    "ageMax": 7,
+    "category": "movement",
+    "locations": [
+      "home"
+    ],
+    "time": 12,
+    "prep": 1,
+    "mess": 0,
+    "soloScore": 1,
+    "materials": [
+      "3 ľahké predmety: ponožka, plastový pohár, malá kniha",
+      "časovač v mobile"
+    ],
+    "easier": "Použi iba dva predmety a časovač vypni.",
+    "harder": "Pridaj štvrtý ľahký predmet a dieťa si celé poradie zapamätá iba po jednom prečítaní.",
+    "why": "Pamäť poradia, orientácia v priestore a pohyb.",
+    "safety": "Iba rýchla chôdza na voľnej trase. Žiadne sklo, ostré alebo ťažké predmety.",
+    "parentRole": "Rozlož tri predmety, spusti čas a na konci skontroluj poradie.",
+    "ifStuck": "Po prvom predmete môžeš jednou vetou pripomenúť zvyšné poradie.",
+    "cleanup": "Súčasťou finále je vrátenie všetkých troch predmetov na pôvodné miesta.",
+    "id": "reset-7-kurier-60",
+    "title": "Kuriérska misia na 60 sekúnd",
+    "emoji": "🚦",
+    "ageMin": 7,
+    "situations": [
+      "energy",
+      "together"
+    ],
+    "setup": "Polož tri predmety na tri bezpečné miesta v jednej izbe: ponožku na stoličku, plastový pohár na gauč a knihu na stôl. Štart je pri dverách. Cesta musí byť voľná; predmety nedávaj na zem ani ku schodom.",
+    "say": "„Kuriér, máš tri zásielky a presné poradie: PONOŽKA – POHÁR – KNIHA. Máš 60 sekúnd, ale zásielky sa nesmú hádzať ani brať v inom poradí.“",
+    "steps": [
+      "Pred spustením časovača nech dieťa desať sekúnd stojí na štarte a iba si zapamätá poradie predmetov. Rodič ho už po štarte neopakuje.",
+      "Spusti 60 sekúnd. Dieťa ide najprv po ponožku, prinesie ju na štart a položí ju do „depa“ pri dverách.",
+      "Potom prinesie plastový pohár a napokon knihu. Pohybuje sa rýchlou chôdzou, nie behom. Ak vezme nesprávny predmet, vráti ho a pokračuje.",
+      "Keď sú všetky tri zásielky v depe, zastav čas. Spoločne skontrolujte poradie: ponožka – pohár – kniha. Úloha je splnená iba pri správnom poradí."
+    ],
+    "finale": "Povedz: „Všetky tri zásielky dorazili v správnom poradí. Depo zatvára!“ Potom dieťa odnesie každý predmet presne tam, odkiaľ ho vzalo.",
+    "encore": "Vymeň poradie na KNIHA – PONOŽKA – POHÁR a daj dieťaťu iba päť sekúnd na zapamätanie.",
+    "prepText": "do 1 min"
+  },
+  {
+    "id": "v6_8_03",
+    "title": "Morseova tajná správa",
+    "emoji": "📡",
+    "ageMin": 8,
+    "ageMax": 8,
+    "category": "brain",
+    "locations": [
+      "home",
+      "travel"
+    ],
+    "time": 25,
+    "parentEnergy": "normal",
+    "childEnergy": "normal",
+    "solo": true,
+    "noPrep": false,
+    "noMess": true,
+    "prep": 1,
+    "mess": 1,
+    "supervision": 1,
+    "soloScore": 3,
+    "siblings": true,
+    "tags": [
+      "brain",
+      "home",
+      "travel"
+    ],
+    "materials": [
+      "papier a ceruzka"
+    ],
+    "tools": [],
+    "intro": "„Dnes budeme posielať správu iba bodkami a čiarkami. Najprv sa naučíme pár písmen a potom rozlúštime SOS.“",
+    "setup": "Na papier napíš malý morseovský kľúč iba pre písmená A .-, E ., I .., M --, N -., O ---, S ..., T -, SOS ... --- ... . To na prvú hru stačí.",
+    "say": "„Dnes budeme posielať správu iba bodkami a čiarkami. Najprv sa naučíme pár písmen a potom rozlúštime SOS.“",
+    "steps": [
+      "Ukáž E = bodka a T = čiarka. Zaklop jedným krátkym ťukom ako E a jedným dlhším ťukom ako T. Dieťa povie, ktoré bolo ktoré.",
+      "Prejdite S = tri bodky a O = tri čiarky. Potom napíš ... --- ... a nech dieťa podľa kľúča rozdelí správu na S-O-S.",
+      "Dieťa si vyberie jedno z písmen A, E, I, M, N, O, S, T a zapíše ho morseovkou. Ty hádaš podľa kľúča.",
+      "Na záver si navzájom pošlite trojpísmenovú správu iba z povolených písmen, napríklad TOM alebo MIA, a druhý ju dekóduje."
+    ],
+    "finale": "Povedz: „Rádiová stanica zatvára. Vieme správu zapísať, odoslať aj rozlúštiť.“ Kľúč si odložte na ďalší deň.",
+    "encore": "Skúste poslať SOS bez papiera iba krátkymi a dlhými ťukmi do stola a druhý ho rozpozná.",
+    "easier": "Použi iba E, T, S a O a dekódujte len SOS.",
+    "harder": "Pridaj ďalších päť písmen z bežného morseovského kľúča a vytvorte krátke slovo.",
+    "why": "prácu s kódom, sekvencie, presnosť a historický spôsob komunikácie",
+    "safety": "Pri ťukaní nepoužívaj hlasné údery; pri cestovaní hrá iba spolujazdec a vodič sa nesústredí na kód.",
+    "mechanic": "morse_code",
+    "prepText": "cca 30 sekúnd",
+    "parentRole": "Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.",
+    "ifStuck": "Použi iba E, T, S a O a dekódujte len SOS.",
+    "cleanup": "Upratanie je už súčasť posledného kroku hry.",
+    "parentPromise": "cca 30 sekúnd príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "peace",
+      "together"
+    ]
+  },
+  {
+    "id": "v6_8_01",
+    "title": "Most inžiniera: záťažový test",
+    "emoji": "🌉",
+    "ageMin": 8,
+    "ageMax": 8,
+    "category": "brain",
+    "locations": [
+      "home"
+    ],
+    "time": 30,
+    "parentEnergy": "normal",
+    "childEnergy": "normal",
+    "solo": true,
+    "noPrep": false,
+    "noMess": false,
+    "prep": 3,
+    "mess": 2,
+    "supervision": 1,
+    "soloScore": 3,
+    "siblings": true,
+    "tags": [
+      "brain",
+      "home"
+    ],
+    "materials": [
+      "10 papierov A4, maliarska páska, 2 rovnaké knihy a 15 LEGO kociek ako záťaž"
+    ],
+    "tools": [],
+    "intro": "„Inžinierska zákazka: postav papierový most cez 20-centimetrovú medzeru. Víťazný dizajn je ten, ktorý unesie najviac LEGO kociek bez opory uprostred.“",
+    "setup": "Polož dve knihy 20 cm od seba ako brehy. Dieťa smie použiť najviac desať papierov a 30 cm pásky. Most musí spájať knihy a nesmie mať oporu uprostred.",
+    "say": "„Inžinierska zákazka: postav papierový most cez 20-centimetrovú medzeru. Víťazný dizajn je ten, ktorý unesie najviac LEGO kociek bez opory uprostred.“",
+    "steps": [
+      "Pred stavbou daj dieťaťu tri minúty iba na návrh. Môže skúšať skladať papier do harmoniky, rolovať ho alebo vrstviť, ale ešte nelepiť finálny most.",
+      "Postaví prvú verziu a položí ju medzi knihy. Záťaž pridávajte vždy po jednej kocke do stredu a počítajte, pri ktorej sa most výrazne prehne alebo spadne.",
+      "Zapíšte výsledok V1. Dieťa môže zmeniť konštrukciu, ale stále má rovnaký materiálový limit. Postaví V2 a zopakujete rovnaký test.",
+      "Porovnajte V1 a V2: ktorá uniesla viac a aká konkrétna zmena pravdepodobne pomohla? Dieťa musí pomenovať aspoň jednu zmenu tvaru alebo spevnenia."
+    ],
+    "finale": "Povedz: „Zákazka je uzavretá. Máme dve otestované verzie a výsledok, ktorá bola pevnejšia.“ Zapíšte víťazný počet kociek a most rozoberte.",
+    "encore": "Pridaj nový cieľ: most musí uniesť aspoň päť kociek, ale smie použiť iba päť papierov. Dieťa optimalizuje materiál.",
+    "easier": "Dovoľ použiť všetkých desať papierov bez limitu pásky a knihy daj iba 15 cm od seba.",
+    "harder": "Zmeň rozpätie na 25 cm a nech dieťa pred stavbou odhadne, či rovnaký dizajn unesie viac alebo menej.",
+    "why": "inžiniersky návrh, férové testovanie, iteráciu, meranie výkonu a vysvetlenie výsledku",
+    "safety": "Použi iba ľahké LEGO kocky a knihy polož ďaleko od okraja stola; most nezaťažujte ťažkými predmetmi.",
+    "mechanic": "bridge_load_test",
+    "prepText": "cca 3 minúty",
+    "parentRole": "Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.",
+    "ifStuck": "Dovoľ použiť všetkých desať papierov bez limitu pásky a knihy daj iba 15 cm od seba.",
+    "cleanup": "Upratanie je už súčasť posledného kroku hry.",
+    "parentPromise": "cca 3 minúty príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "together"
+    ]
+  },
+  {
+    "id": "v6_8_06",
+    "title": "Domáce správy: 60-sekundový reportér",
+    "emoji": "🎤",
+    "ageMin": 8,
+    "ageMax": 8,
+    "category": "pretend",
+    "locations": [
+      "home",
+      "travel"
+    ],
+    "time": 20,
+    "parentEnergy": "normal",
+    "childEnergy": "normal",
+    "solo": true,
+    "noPrep": false,
+    "noMess": true,
+    "prep": 1,
+    "mess": 1,
+    "supervision": 1,
+    "soloScore": 3,
+    "siblings": true,
+    "tags": [
+      "pretend",
+      "home"
+    ],
+    "materials": [
+      "papier, ceruzka a ľubovoľná bezpečná vec ako „mikrofón“, napríklad varecha"
+    ],
+    "tools": [],
+    "intro": "„Si televízny reportér a máš jednu minútu na správu. Divák musí po reportáži presne vedieť čo, kde a aký zaujímavý detail sa stal.“",
+    "setup": "Dieťa si vyberie jednu úplne bežnú domácu udalosť, napríklad „dnes sme piekli“, „prší“, „pes zaspal na gauči“ alebo „v izbe je veľká LEGO stavba“. Musí pripraviť report s tromi časťami: čo sa stalo, kde, a jeden detail.",
+    "say": "„Si televízny reportér a máš jednu minútu na správu. Divák musí po reportáži presne vedieť čo, kde a aký zaujímavý detail sa stal.“",
+    "steps": [
+      "Na papier si dieťa napíše tri heslá: ČO – KDE – DETAIL. Pod každé doplní maximálne päť slov, nie celý prejav.",
+      "Má dve minúty na prípravu a jeden skúšobný začiatok: „Dobrý deň, hlásime sa z…“",
+      "Spusti 60 sekúnd. Dieťa odreportuje udalosť bez prerušovania. Rodič je kamera a pozerá sa na reportéra.",
+      "Po skončení polož jednu redaktorskú otázku, napríklad „Čo sa stalo potom?“ Dieťa odpovie jednou alebo dvoma vetami."
+    ],
+    "finale": "Povedz: „Reportáž je odvysielaná.“ Dieťa samo skontroluje, či v nej zaznelo ČO, KDE aj DETAIL.",
+    "encore": "Rodič dostane inú tému a musí spraviť vlastnú 30-sekundovú reportáž, ktorú dieťa skontroluje podľa rovnakých troch bodov.",
+    "easier": "Časovač vypni a rodič sa pýta na každý z troch bodov zvlášť.",
+    "harder": "Pridaj „svedka udalosti“ – plyšáka alebo rodiča – ktorému musí reportér položiť jednu otázku a zaradiť odpoveď do reportáže.",
+    "why": "štruktúru rozprávania, stručnosť, verejný prejav a overenie, či informácia obsahuje podstatné časti",
+    "safety": "Ak reportáž natáčate, video ponechajte súkromné, pokiaľ rodič vedome nerozhodne inak.",
+    "mechanic": "news_report",
+    "prepText": "cca 30 sekúnd",
+    "parentRole": "Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.",
+    "ifStuck": "Časovač vypni a rodič sa pýta na každý z troch bodov zvlášť.",
+    "cleanup": "Po finále spolu vráťte použité pomôcky na ich miesto.",
+    "parentPromise": "cca 30 sekúnd príprava · potom už nič nevymýšľaš",
+    "situations": [
+      "peace",
+      "together"
+    ]
+  },
+  {
+    "ageMax": 8,
+    "category": "movement",
+    "locations": [
+      "home"
+    ],
+    "time": 12,
+    "prep": 0,
+    "mess": 0,
+    "soloScore": 1,
+    "materials": [],
+    "easier": "Použi iba tri body: gauč – stôl – dvere, bez drepov.",
+    "harder": "Dieťa si zapamätá šesť krokov vrátane dvoch presných pohybových úloh.",
+    "why": "Pracovná pamäť, orientácia a kontrolovaný pohyb.",
+    "safety": "Pohybujte sa iba chôdzou v jednej bezpečnej izbe; nepoužívajte schody ani klzké plochy.",
+    "parentRole": "Raz prečítaj trasu a potom už len sleduj bezpečnosť.",
+    "ifStuck": "Povedz iba názov posledného správne dosiahnutého bodu, nie ďalší krok.",
+    "cleanup": "Nič sa neupratuje.",
+    "id": "reset-8-pamatova-trasa",
+    "title": "Pamäťová trasa agenta",
+    "emoji": "🧭",
+    "ageMin": 8,
+    "situations": [
+      "energy",
+      "together"
+    ],
+    "setup": "Vyber jednu bezpečnú izbu a urč štyri orientačné body, ktoré už v nej sú: dvere, gauč, stôl a okno. Nič nepresúvaj. Dieťa stojí pri dverách a pred štartom si vypočuje celú trasu iba raz.",
+    "say": "„Agent, dostaneš navigačný príkaz iba raz. Potom ho musíš prejsť z pamäti bez ďalšieho napovedania. Ak sa pomýliš, zastavíš sa a opravíš iba chybný krok.“",
+    "steps": [
+      "Prečítaj presne túto trasu: „Dotkni sa gauča, prejdi k oknu, sprav tam tri pomalé drepy, dotkni sa stola a vráť sa ku dverám.“ Potom už trasu neopakuj.",
+      "Dieťa trasu vykoná. Ak sa zastaví, daj mu desať sekúnd na premyslenie. Nehovor, čo nasleduje; môže sa vrátiť v mysli na posledný správny bod.",
+      "Po návrate ku dverám nech dieťa samo zopakuje celé poradie slovami. Spoločne skontrolujte, či sedí päť častí: gauč – okno – 3 drepy – stôl – dvere.",
+      "Druhé kolo: dieťa vytvorí pre rodiča vlastnú trasu so štyrmi bodmi v tej istej izbe. Musí ju povedať celú pred štartom a počas vykonávania už nesmie napovedať."
+    ],
+    "finale": "Povedz: „Navigácia fungovala bez mapy. Agent si trasu udržal v hlave a vrátil sa na základňu.“ Dajte si agentovský pozdrav.",
+    "encore": "Zopakuj prvú trasu, ale po okne vlož jeden nový bezpečný prvok: napríklad dva dotyky kolien.",
+    "prepText": "bez prípravy"
+  },
+  {
+    "ageMax": 8,
+    "category": "movement",
+    "locations": [
+      "home"
+    ],
+    "time": 12,
+    "prep": 1,
+    "mess": 0,
+    "soloScore": 1,
+    "materials": [
+      "časovač",
+      "1 zrolovaný pár ponožiek"
+    ],
+    "easier": "Každá disciplína trvá iba 15 sekúnd a drepy môžeš nahradiť dotykmi kolien.",
+    "harder": "Dieťa si pred štartom zapamätá poradie všetkých piatich disciplín a rodič už iba spúšťa čas.",
+    "why": "Koordinácia, rovnováha a vytrvalosť bez súťaženia o výkon.",
+    "safety": "Ak je niektorý pohyb nepríjemný, okamžite ho preskoč. Hrajte na rovnom povrchu a bez skokov, behov či prudkých rotácií.",
+    "parentRole": "Spúšťaj časovač a pripomeň názov nasledujúcej disciplíny.",
+    "ifStuck": "Vypni časovač a najprv jedenkrát pokojne ukáž pohyb spolu s dieťaťom.",
+    "cleanup": "Zrolované ponožky po hre odložte.",
+    "id": "reset-8-domaci-pentatlon",
+    "title": "Domáci pentatlon 5 × 30 sekúnd",
+    "emoji": "🏅",
+    "ageMin": 8,
+    "situations": [
+      "energy",
+      "together"
+    ],
+    "setup": "Vyber voľné miesto bez nábytku v tesnej blízkosti. Zrolované ponožky polož na zem ako mäkkú „medailu“. Každá disciplína trvá 30 sekúnd a medzi nimi je približne 20 sekúnd pauza.",
+    "say": "„Otvárame päťdisciplínový domáci pentatlon. Nehrá sa na rekord sveta — cieľ je dokončiť všetkých päť disciplín technicky čisto a bezpečne.“",
+    "steps": [
+      "DISCIPLÍNA 1 – bočné kroky: 30 sekúnd rob dva kroky doprava a dva doľava. Nohy nekríž a nebež. Potom 20 sekúnd oddych.",
+      "DISCIPLÍNA 2 – ponožkový balans: polož zrolované ponožky na otvorenú dlaň a 30 sekúnd sa s nimi pomaly prechádzaj po izbe bez pridržania druhou rukou.",
+      "DISCIPLÍNA 3 – presné drepy: počas 30 sekúnd sprav toľko pomalých drepov, koľko je príjemné. Ráta sa iba drep, po ktorom sa úplne postavíš.",
+      "DISCIPLÍNA 4 a 5 – 30 sekúnd striedavo dotýkaj pravou rukou ľavého kolena a opačne; po pauze zakonči 30 sekundami „sochy“, počas ktorej sa snažíš zostať úplne nehybný."
+    ],
+    "finale": "Povedz: „Pentatlon je dokončený — päť z piatich disciplín!“ Ponožkovú medailu odovzdaj dieťaťu do ruky a nech si vyberie, ktorá disciplína bola najlepšia.",
+    "encore": "Dieťa vyberie jednu disciplínu a skúsi druhé 30-sekundové kolo s cieľom urobiť ju pokojnejšie a presnejšie, nie rýchlejšie.",
+    "prepText": "do 1 min"
+  }
+]

@@ -1,23 +1,40 @@
-MAMI, NUDÍM SA! — CURATED BUILD V6 QA
+MAMI, NUDÍM SA! — RESET 1 / QA REPORT
 
-CONTENT QA
-PASS — 70 hier celkom
-PASS — presne 10 hier pre každý vek 2–8
-PASS — 70 unikátnych názvov
-PASS — 70 unikátnych krokových scenárov
-PASS — každá hra má min. 4 detailné kroky
-PASS — každá hra má konkrétnu prípravu, štartovaciu vetu, finále a pokračovanie
-PASS — kontrola zakázaných placeholderov a šablónových fráz
-PASS — žiadne „Povedz pripravenú vetu“, „Finále“, „podľa názvu hry“, „urob prvú verziu“
-PASS — materiály nie sú vágne
+OBSAH
+PASS — 35 hier = presne 5 pre každý vek 2–8
+PASS — 35 unikátnych ID a názvov
+PASS — každá hra má konkrétnu prípravu, presnú štartovaciu vetu, min. 4 konkrétne kroky a jasné finále
+PASS — placeholderové/generické frázy: 0 nálezov
+PASS — presne žiadne duplicitné krokové scenáre
+PASS — každý vek má min. 2 low-effort hry pre „Chcem chvíľu pokoja“
+PASS — každý vek má min. 2 pohybové hry pre „Vybiť energiu“
+PASS — všetky „Chcem chvíľu pokoja“ hry majú prípravu 0–1
 
-TECHNICAL QA
-PASS — app.js syntax
+JEDNODUCHOSŤ
+PASS — len vek + 4 hlavné situácie + odporúčanie + Game Mode
+PASS — žiadna spodná navigácia, profily, achievementy ani pokročilé filtre
+PASS — detail hry sa dávkuje po jednom kroku
+PASS — tlačidlo „Keď sa zasekne“ používa konkrétnu ľahšiu verziu danej hry
+PASS — čítanie nahlas je voliteľné a nezavadzia v hlavnom flow
+
+NO-REPEAT
+PASS — test 30 kliknutí „Inú hru“ pre KAŽDÝ vek 2–8 a každú zo 4 situácií
+PASS — 0 okamžitých opakovaní
+PASS — prvý celý cyklus každého poolu je bez duplicity
+
+TECHNIKA
+PASS — app.js syntax cez node --check
 PASS — manifest JSON
-PASS — flat GitHub root paths
-PASS — nový service worker cache key
-PASS — HTTP smoke test všetkých core súborov: {'/': 200, 'index.html': 200, 'styles.css': 200, 'app.js': 200, 'games.js': 200, 'manifest.webmanifest': 200, 'sw.js': 200, 'nudi-mascot.png': 200, 'nudi-logo.svg': 200, 'icon-192.png': 200, 'icon-512.png': 200}
+PASS — HTML/JS id väzby
+PASS — všetky core súbory cez reálny lokálny HTTP server = HTTP 200
+PASS — mobile breakpoint 430 px, small-mobile 350 px, desktop 800 px
+PASS — prefers-reduced-motion
+PASS — viewport-fit=cover + safe-area layout
+PASS — staré service workery/cache sa appka pokúsi odstrániť
+PASS — RESET 1 zámerne neregistruje nový service worker, aby stará cache nezakrývala nové buildy
+PASS — fresh-start.html je samostatný one-time cache/SW reset vstup
 
-Poznámka:
-Tento QA dokáže overiť úplnosť, konzistenciu a zakázané šablónové formulácie.
-Skutočnú reakciu detí je vhodné následne overiť pilotným používaním s rodičmi.
+HTTP: {'/': 200, 'index.html': 200, 'fresh-start.html': 200, 'styles.css': 200, 'app.js': 200, 'games.js': 200, 'manifest.webmanifest': 200, 'nudi.png': 200, 'nudi-mark.svg': 200, 'icon-192.png': 200}
+
+LIMIT
+Plný screenshot/click-through test cez systémový Chromium v tomto runtime zlyháva na systémovom DBus a nebol označený ako PASS. Funkčné vetvy boli preto testované dátovo, algoritmicky, staticky a cez reálny HTTP server.
