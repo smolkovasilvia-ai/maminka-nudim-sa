@@ -1,28 +1,19 @@
-MAMI, NUDÍM SA! — CLEAN GITHUB BUILD
+MAMI, NUDÍM SA! — HRY VERZIA 5
 
-TOTO JE JEDINÝ BALÍK, KTORÝ NAHRAJ NA GITHUB.
+Tento build používa 350 detailne rozpísaných hier: 50 pre každý vek 2–8.
+Nahraj všetky súbory priamo do rootu GitHub repozitára.
 
-Dôležité:
-1. V repozitári odstráň staré súbory z predchádzajúcich verzií.
-2. Nahraj VŠETKY súbory z tohto priečinka priamo do koreňa repozitára.
-3. Nevytváraj priečinok assets — tento build ho zámerne nepoužíva.
-4. index.html musí byť priamo na hlavnej úrovni repozitára.
-5. GitHub Pages: Settings → Pages → Deploy from a branch → main → /(root).
-
-Finálna štruktúra GitHubu má byť:
-- index.html
-- styles.css
-- app.js
-- games.js
-- HRY_VERZIA_4.json
-- manifest.webmanifest
-- sw.js
-- nudi-mascot.png
-- nudi-logo.svg
-- icon-192.png
-- icon-512.png
-- icon-1024.png
-- README.txt
-- QA_REPORT.txt
-
-Po nahratí môže iPhone krátko zobrazovať starú cache. Vtedy stránku obnov, prípadne Safari úplne zavri a znova otvor.
+Najdôležitejšie súbory:
+index.html
+styles.css
+app.js
+games.js
+HRY_VERZIA_5_350_PREMYSLENYCH_HIER.json
+manifest.webmanifest
+sw.js
+nudi-mascot.png
+nudi-logo.svg
+icon-192.png
+icon-512.png
+icon-1024.png
+QA_HRY_VERZIA_5.txt

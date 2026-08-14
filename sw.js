@@ -1,4 +1,4 @@
-const CACHE = 'nudi-clean-v7-20260814';
+const CACHE='nudi-quality-v8-350-20260814';
 const ASSETS = [
   './',
   './index.html',

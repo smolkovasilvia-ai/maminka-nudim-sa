@@ -1,0 +1,15 @@
+MAMI, NUDÍM SA! — HRY VERZIA 5 / CONTENT QA
+
+PASS — 350 hier spolu
+PASS — presne 50 hier pre každý vek 2–8 rokov
+PASS — 350 unikátnych ID
+PASS — 50 unikátnych názvov v každom veku
+PASS — žiadne identické celé krokové scenáre
+PASS — každá hra má konkrétnu prípravu min. 45 znakov
+PASS — každá hra má pripravenú vetu pre rodiča
+PASS — každá hra má 3–8 konkrétnych krokov; žiadny krok nie je prázdna jednoslovná výplň
+PASS — každá hra má konkrétne finále, bonus „chce ešte?“, ľahšiu a ťažšiu verziu
+PASS — zakázané generické frázy: „podľa názvu“, „vymysli“, „podľa zadania“, samotné „finále“, „urob prvú verziu“, „otestujte výsledok presne“
+PASS — bezpečnostná poznámka a rozvojový prínos pri každej hre
+
+Poznámka: ide o obsahový QA. Reálne hranie s deťmi je stále najlepší posledný pilotný test pred plateným uvedením.
