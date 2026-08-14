@@ -76,6 +76,7 @@
   <article class="suggestCard">
     <div class="poster"><span id="suggestEmoji">🎲</span><img src="nudi-mascot.png" alt=""></div>
     <div class="quickMeta" id="suggestMeta"></div>
+    <div class="parentReality" id="suggestParent"></div>
     <p class="lead" id="suggestIntro"></p>
     <div class="materials"><b>Potrebujete</b><p id="suggestMaterials"></p><button id="missingStuff">Nemám pomôcky</button></div>
     <div class="miniPlan"><b>Čo ťa čaká</b><ol id="suggestPlan"></ol></div>
@@ -84,7 +85,7 @@
 </section>
 
 <section class="screen gameScreen" id="game">
-  <div class="gameTop"><button id="exitGame">×</button><div class="progress"><i id="gameProgress"></i></div><button id="speakBtn">🔊</button></div>
+  <div class="gameTop"><button id="exitGame" aria-label="Zavrieť hru">×</button><div class="progress"><i id="gameProgress"></i></div><button id="helpBtn" aria-label="Pomoc, keď sa dieťa zasekne">?</button><button id="speakBtn" aria-label="Prečítať krok nahlas">🔊</button></div>
   <div class="gameCard">
     <span class="gameStep" id="gameStepNo">1/5</span>
     <h1 id="gameTitle">Priprav</h1>
@@ -93,6 +94,7 @@
     <div class="gameHint" id="gameHint"></div>
   </div>
   <div class="gameBottom"><button class="ghost" id="prevStep">Späť</button><button class="primary" id="nextStep">Hotovo →</button></div>
+  <div class="helpSheet" id="helpSheet" hidden><div class="helpInner"><button class="helpClose" id="helpClose" aria-label="Zavrieť pomoc">×</button><span class="tag">Keď sa zasekne</span><h2>Nič nevymýšľaj. Sprav toto:</h2><p id="helpText"></p></div></div>
 </section>
 
 <section class="screen" id="done">

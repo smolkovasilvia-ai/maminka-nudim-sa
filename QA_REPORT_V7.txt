@@ -1,0 +1,38 @@
+MAMI, NUDÍM SA! — CURATED V7 / QA REPORT
+
+OBSAH
+PASS — 70 hier
+PASS — presne 10 hier pre každý vek 2–8
+PASS — 70 unikátnych ID
+PASS — 70 unikátnych názvov
+PASS — 70 označených herných mechaník
+PASS — každá hra má 4 konkrétne kroky
+PASS — každá hra má konkrétnu prípravu, štartovaciu vetu, finále, pokračovanie
+PASS — každá hra má „keď sa zasekne“, rolu rodiča a upratanie
+PASS — zakázané placeholderové frázy: 0 nálezov
+
+OPRAVA OPAKOVANIA
+PASS — aktuálna hra sa vylučuje z „Skús inú“
+PASS — session cooldown pre už zobrazené hry
+PASS — dlhší cooldown pre čerstvo zobrazené a hrané hry
+PASS — „Skús inú“ preferuje inú hernú mechaniku
+PASS — výber žrebuje z TOP 6 vhodných výsledkov namiesto stáleho #1
+PASS — simulácia vek 5: 10 po sebe zobrazených hier = 10 rôznych hier
+
+PRAKTICKOSŤ
+PASS — SOS používa tvrdší filter na nízku prípravu + minimum neporiadku
+PASS — práca/telefonát preferujú samostatnejšie hry, ak sú dostupné
+PASS — lokalita sa rešpektuje ako tvrdší filter, ak je dosť vhodných hier
+PASS — tlačidlo ? v Game Mode zobrazí presnú ľahšiu verziu hry
+
+TECHNICKÉ
+PASS — JavaScript syntax
+PASS — manifest JSON
+PASS — HTML/JS ID väzby
+PASS — service worker cache V7
+PASS — core súbory cez lokálny HTTP server: {'/': 200, 'index.html': 200, 'styles.css': 200, 'app.js': 200, 'games.js': 200, 'manifest.webmanifest': 200, 'sw.js': 200, 'nudi-mascot.png': 200}
+
+LIMIT TESTOVANIA
+Automatický plnohodnotný Chromium click-through test nie je v tomto runtime spoľahlivo
+dostupný kvôli systémovému DBus prostrediu. Preto bol vykonaný statický QA, dátový audit,
+algoritmická simulácia no-repeat logiky a reálny HTTP smoke test.

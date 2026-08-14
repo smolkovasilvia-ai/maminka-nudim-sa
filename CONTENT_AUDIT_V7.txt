@@ -1,0 +1,85 @@
+MAMI, NUDÍM SA! — CONTENT AUDIT V7
+
+VEK 2 ROKOV
+- Nakŕm medvedíka | pretend_feed | cca 30 sekúnd | 8 min | rodič: Hráš sa spolu s dieťaťom; appka vám hovorí presne, čo je ďalší krok.
+- Ponožkový vláčik | match_sequence | prakticky nič | 7 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Zvierací pochod | movement_imitation | prakticky nič | 8 min | rodič: Hráš sa spolu s dieťaťom; appka vám hovorí presne, čo je ďalší krok.
+- Farebný kuriér | color_delivery | cca 30 sekúnd | 8 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Kde cinká lyžička? | sound_location | prakticky nič | 6 min | rodič: Hráš sa spolu s dieťaťom; appka vám hovorí presne, čo je ďalší krok.
+- Vankúšové ostrovy | obstacle_path | cca 30 sekúnd | 8 min | rodič: Hráš sa spolu s dieťaťom; appka vám hovorí presne, čo je ďalší krok.
+- Veľký alebo malý? | size_sort | prakticky nič | 6 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Uteráková umývačka | pretend_clean | cca 30 sekúnd | 8 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Krabicová pošta | delivery_route | cca 30 sekúnd | 8 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Tichý bubeník | rhythm_copy | prakticky nič | 6 min | rodič: Hráš sa spolu s dieťaťom; appka vám hovorí presne, čo je ďalší krok.
+
+VEK 3 ROKOV
+- Ukradnutá dúha | color_scavenger | prakticky nič | 10 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+- Záchrana plyšákov | rescue_route | cca 30 sekúnd | 12 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Kuchynský kuriér | instruction_delivery | cca 30 sekúnd | 10 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+- Balón nesmie spadnúť | keep_in_air | cca 30 sekúnd | 10 min | rodič: Hráš sa spolu s dieťaťom; appka vám hovorí presne, čo je ďalší krok.
+- Ponožková polícia | pair_matching | prakticky nič | 10 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+- Sochy na povel | freeze_movement | prakticky nič | 8 min | rodič: Hráš sa spolu s dieťaťom; appka vám hovorí presne, čo je ďalší krok.
+- Lovec tvarov | shape_hunt | prakticky nič | 8 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+- Kúzelná krabica | tactile_guess | cca 30 sekúnd | 10 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Tajná cesta | path_memory | cca 30 sekúnd | 10 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Čo zmizlo? | missing_object | prakticky nič | 7 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+
+VEK 4 ROKOV
+- Prípad strateného dinosaura | clue_hunt | cca 1–2 minúty | 12 min | rodič: Príprava trvá asi minútu. Potom už len čítaš tri nápovedy v poradí, ktoré ukazuje appka.
+- Ostrov sa potápa | obstacle_rescue | cca 30 sekúnd | 12 min | rodič: Hráš sa spolu s dieťaťom; appka vám hovorí presne, čo je ďalší krok.
+- Robot na diaľkové | command_follow | prakticky nič | 10 min | rodič: Hráš sa spolu s dieťaťom; appka vám hovorí presne, čo je ďalší krok.
+- Záchrana hračiek z lávy | rescue_transport | cca 1–2 minúty | 12 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Staviteľ mosta z pohárov | simple_bridge | cca 30 sekúnd | 15 min | rodič: Polož dva plastové poháre, papier a autíčko. Potom už len čítaš štyri kroky.
+- Čo sa zmenilo? | spot_change | prakticky nič | 8 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Tichá zoologická | charades | prakticky nič | 10 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Poštár tajných správ | symbol_delivery | cca 1–2 minúty | 12 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Hádaj podľa troch slov | three_clue_riddle | prakticky nič | 8 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Piknik pre plyšákov | pretend_service | cca 1–2 minúty | 14 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+
+VEK 5 ROKOV
+- Papierový most | paper_engineering | cca 1–2 minúty | 18 min | rodič: Ty iba položíš dve knihy a podáš papier. Dieťa skúša riešenia; appka ti povie, kedy spraviť každý test.
+- Prípad zmiznutej lyžice | detective_clues | cca 1–2 minúty | 15 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Domáci minigolf | target_aim | cca 1–2 minúty | 15 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Príšerka podľa diktátu | draw_from_instructions | cca 30 sekúnd | 15 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Tajná mapa izby | map_making | cca 1–2 minúty | 18 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Čo pláva a čo klesne? | sink_float_test | cca 1–2 minúty | 15 min | rodič: Hráš sa spolu s dieťaťom; appka vám hovorí presne, čo je ďalší krok.
+- Kocková veža na objednávku | build_to_spec | prakticky nič | 15 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+- Šifrovaná správa z obrázkov | picture_code | cca 30 sekúnd | 12 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+- Reklama na ponožku | creative_pitch | prakticky nič | 12 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Balíček pre mimozemšťana | constraint_sort | cca 30 sekúnd | 16 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+
+VEK 6 ROKOV
+- Laserová chodba | navigate_obstacles | cca 3 minúty | 20 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Papierová veža: 10 minút | tower_engineering | cca 1–2 minúty | 18 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+- Domáce bingo bez tlačenia | bingo_hunt | cca 1–2 minúty | 15 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+- Príbeh z piatich predmetov | story_chain | cca 30 sekúnd | 18 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Kód semaforu | rule_switching | cca 30 sekúnd | 12 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Predmetový súd | argument_game | prakticky nič | 15 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Kuchynský architekt | design_build | cca 30 sekúnd | 18 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+- Minútový obchod | pretend_math | cca 3 minúty | 15 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Tajná správa pod stolom | clue_decode | cca 3 minúty | 15 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+- Cesta pre autíčko | route_planning | cca 1–2 minúty | 20 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+
+VEK 7 ROKOV
+- Domáci escape room: Tri zámky | escape_puzzles | cca 5 minút | 25 min | rodič: Priprav tri stanovištia podľa prvého kroku. Potom už iba čítaš zadania a kontroluješ riešenia.
+- Papierový padák | design_test | cca 3 minúty | 22 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Katapult na papierové guličky | launch_test | cca 1–2 minúty | 20 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Tajná šifra posunu | cipher_shift | cca 30 sekúnd | 20 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+- Mesto z kartónu | world_building | cca 3 minúty | 30 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+- Reklamná agentúra: 30 sekúnd | timed_pitch | cca 30 sekúnd | 18 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+- Chromatografia fixky | science_separation | cca 3 minúty | 25 min | rodič: Hráš sa spolu s dieťaťom; appka vám hovorí presne, čo je ďalší krok.
+- Vlastná stolová hra za 20 minút | game_design | cca 1–2 minúty | 25 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+- Forenzný detektív: Odtlačky textúr | forensic_texture | cca 1–2 minúty | 20 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Misia: Presná zásielka | constraint_delivery | cca 1–2 minúty | 18 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+
+VEK 8 ROKOV
+- Most inžiniera: záťažový test | bridge_load_test | cca 3 minúty | 30 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+- Detektívny prípad: Kto presunul pohár? | logic_case | cca 3 minúty | 25 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+- Morseova tajná správa | morse_code | cca 30 sekúnd | 25 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+- Laboratórium papierových lietadiel | flight_experiment | cca 3 minúty | 30 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+- Navrhni escape room pre rodiča | escape_design | cca 5 minút | 35 min | rodič: Dieťa tvorí. Ty si na konci iba hráč, ktorý skúša jeho hotový mini escape room.
+- Domáce správy: 60-sekundový reportér | news_report | cca 30 sekúnd | 20 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+- Guľôčková dráha z papiera | track_engineering | cca 3 minúty | 30 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
+- Hustotná veža bez farbív | density_experiment | cca 3 minúty | 25 min | rodič: Hráš sa spolu s dieťaťom; appka vám hovorí presne, čo je ďalší krok.
+- Slepá mapa: naviguj robota | algorithm_navigation | cca 1–2 minúty | 20 min | rodič: Ty dávaš krátke pokyny; pravidlá ani ďalšie úlohy si nevymýšľaš.
+- Rozpočet tajnej misie | budget_constraints | cca 3 minúty | 25 min | rodič: Priprav pomôcky, prečítaj štart a potom už len odklikávaj ďalšie kroky.
