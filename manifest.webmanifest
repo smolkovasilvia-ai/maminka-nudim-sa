@@ -1,0 +1,28 @@
+{
+  "name": "Nudi — Mami, nudím sa!",
+  "short_name": "Nudi",
+  "description": "Nudi — hotové, krokované hry pre deti 2–8 rokov. Rodič nič nevymýšľa.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff7ef",
+  "theme_color": "#7ee5d3",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "scope": "./"
+}

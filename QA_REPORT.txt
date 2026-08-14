@@ -1,0 +1,15 @@
+MAMI, NUDÍM SA! — CLEAN GITHUB BUILD / QA
+
+PASS — index používa grafiku priamo z rootu, nie z assets/
+PASS — nudi-mascot.png cesta
+PASS — icon-192.png / icon-512.png / icon-1024.png cesty
+PASS — JavaScript syntax
+PASS — manifest JSON
+PASS — service worker používa novú cache: nudi-clean-v7-20260814
+PASS — staré cache sa pri aktivácii service workera mažú
+PASS — všetky core súbory vracajú HTTP 200
+PASS — databáza: 700 hier / 700 unikátnych ID
+PASS — presne 100 hier pre každý vek 2–8 rokov
+
+Tento build je zámerne FLAT: nevytvára priečinok assets.
+Je prispôsobený presne štruktúre, ktorú má používateľ aktuálne na GitHube.

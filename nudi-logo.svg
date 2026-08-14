@@ -1,0 +1,10 @@
+<svg width="720" height="180" viewBox="0 0 720 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="720" height="180" rx="42" fill="#FFF7EF"/>
+<circle cx="86" cy="90" r="52" fill="#7EE5D3"/>
+<path d="M57 92c15 23 44 28 65 8" stroke="#14323B" stroke-width="10" stroke-linecap="round"/>
+<circle cx="67" cy="76" r="8" fill="#14323B"/><circle cx="105" cy="76" r="8" fill="#14323B"/>
+<path d="M117 32l13 24 27 4-20 19 5 27-25-13-24 13 5-27-20-19 27-4 12-24z" fill="#FFD15C"/>
+<text x="164" y="82" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="900" fill="#17343E">Nudi</text>
+<text x="164" y="125" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800" fill="#FF765F">Mami, nudím sa!</text>
+<text x="164" y="154" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#6D7380">hotové hry bez rozmýšľania</text>
+</svg>

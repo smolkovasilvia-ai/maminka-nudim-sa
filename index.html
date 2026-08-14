@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="sk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#fff7ef">
+<meta name="description" content="Nudi — Mami, nudím sa! Hotové hry krok za krokom pre deti 2–8 rokov.">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Nudi">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="icon" href="icon-192.png">
+<link rel="stylesheet" href="styles.css">
+<title>Nudi — Mami, nudím sa!</title>
+</head>
+<body>
+<a href="#app" class="skip">Preskočiť na appku</a>
+<div class="bg-bubbles" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+<div id="app" class="app">
+<header class="topbar">
+  <button class="logoBtn" data-nav="home" aria-label="Domov"><img src="icon-192.png" alt=""><span><b>Nudi</b><small>Mami, nudím sa!</small></span></button>
+  <button class="childPill" id="childPill"><span id="childAvatar">🦊</span><b id="childNameTop">Ema</b></button>
+</header>
+
+<main>
+<section class="screen active" id="home">
+  <section class="hero">
+    <div class="heroText"><span class="tag">Žiadne vymýšľanie</span><h1>Čo potrebuješ práve teraz?</h1><p>Nudi vyberie hotovú hru, povie čo pripraviť a prevedie vás krok za krokom.</p></div>
+    <img class="nudiHero nudi-alive" src="nudi-mascot.png" alt="Nudi maskot">
+  </section>
+
+  <section class="needGrid" id="needGrid" aria-label="Rýchla voľba potreby">
+    <button data-need="peace" class="need big"><span>☕</span><b>Chvíľu pokoja</b><small>keď chceš dopiť kávu</small></button>
+    <button data-need="busy" class="need big"><span>💻</span><b>Potrebujem pracovať</b><small>samostatnejšia hra</small></button>
+    <button data-need="cook" class="need"><span>🍳</span><b>Varím</b></button>
+    <button data-need="call" class="need"><span>☎️</span><b>Telefonujem</b></button>
+    <button data-need="energy" class="need"><span>⚡</span><b>Vybiť energiu</b></button>
+    <button data-need="travel" class="need"><span>🚗</span><b>Cesta/čakanie</b></button>
+  </section>
+
+  <section class="panicCard">
+    <div><span class="tag coral">SOS režim</span><h2>Som KO. Zachráň ma.</h2><p>Vyberieme iba hry s minimom prípravy a čo najmenším chaosom.</p></div>
+    <div class="quickOptions">
+      <div><label>Koľko času?</label><div class="seg" id="timeSeg"><button data-time="5">5</button><button data-time="15" class="on">15</button><button data-time="30">30+</button></div></div>
+      <div><label>Bordel?</label><div class="seg" id="messSeg"><button data-mess="no" class="on">Nie 😂</button><button data-mess="ok">Trochu</button></div></div>
+    </div>
+    <button class="primary huge" id="panicBtn"><span>🎲</span><b>Nudi, zachráň nás</b></button>
+  </section>
+
+  <section class="todayRow">
+    <button class="todayCard" id="dailyBtn"><span>🌟</span><div><b>Dnešný tip</b><small id="dailyCopy">jedna dobrá hra pre Emu</small></div><i>→</i></button>
+    <button class="todayCard" id="kidPickBtn"><span>🧒</span><div><b>Nech vyberie dieťa</b><small>3 obrázky, mobil bokom</small></div><i>→</i></button>
+  </section>
+
+  <section class="sectionHead"><div><span class="tag">Program</span><h2>Keď potrebuješ dlhšie vydržať</h2></div></section>
+  <div class="playlistBox">
+    <button id="playlist30"><b>30 min playlist</b><small>3 krátke hry za sebou</small></button>
+    <button id="playlist60"><b>60 min playlist</b><small>mix pohyb + pokoj + tvorenie</small></button>
+  </div>
+</section>
+
+<section class="screen" id="pick">
+  <div class="pageHeader"><button class="back" data-nav="home">←</button><div><span class="tag">Vyber presnejšie</span><h1>Nájdeme hru</h1></div></div>
+  <div class="filters">
+    <label>Vek</label><div class="chiprow" id="ageChips"></div>
+    <label>Kde ste?</label><div class="chiprow" id="placeChips"><button data-place="home" class="on">🏠 doma</button><button data-place="outside">🌳 vonku</button><button data-place="travel">🚗 cesta</button><button data-place="restaurant">🍽 čakáme</button></div>
+    <label>Čo sa hodí?</label><div class="chiprow multi" id="typeChips"><button data-cat="movement">pohyb</button><button data-cat="creative">tvorenie</button><button data-cat="brain">logika</button><button data-cat="pretend">fantázia</button><button data-cat="calm">kľud</button><button data-cat="sensory">zmysly</button></div>
+    <details><summary>Rodičovský reality check</summary><div class="toggleList"><label><input type="checkbox" id="noPrep"> Bez prípravy</label><label><input type="checkbox" id="noMess"> Bez bordelu</label><label><input type="checkbox" id="soloOnly"> Nech sa hrá skôr samo</label><label><input type="checkbox" id="newOnly"> Neopakovať hrané</label></div></details>
+    <button class="primary" id="findBtn">Ukáž najlepšie hry</button>
+  </div>
+  <div class="results" id="results"></div>
+</section>
+
+<section class="screen" id="suggestion">
+  <div class="pageHeader"><button class="back" data-nav="home">←</button><div><span class="tag">Nudi našiel hru</span><h1 id="suggestTitle">Hra</h1></div></div>
+  <article class="suggestCard">
+    <div class="poster"><span id="suggestEmoji">🎲</span><img src="nudi-mascot.png" alt=""></div>
+    <div class="quickMeta" id="suggestMeta"></div>
+    <p class="lead" id="suggestIntro"></p>
+    <div class="materials"><b>Potrebujete</b><p id="suggestMaterials"></p><button id="missingStuff">Nemám pomôcky</button></div>
+    <div class="miniPlan"><b>Čo ťa čaká</b><ol id="suggestPlan"></ol></div>
+    <div class="actionBar"><button class="ghost" id="anotherGame">Inú hru</button><button class="primary" id="startGame">▶ Spustiť hru</button></div>
+  </article>
+</section>
+
+<section class="screen gameScreen" id="game">
+  <div class="gameTop"><button id="exitGame">×</button><div class="progress"><i id="gameProgress"></i></div><button id="speakBtn">🔊</button></div>
+  <div class="gameCard">
+    <span class="gameStep" id="gameStepNo">1/5</span>
+    <h1 id="gameTitle">Priprav</h1>
+    <p id="gameText">Text kroku</p>
+    <div class="timer" id="timerBox" hidden><b id="timerText">00:30</b><button id="timerBtn">Štart</button></div>
+    <div class="gameHint" id="gameHint"></div>
+  </div>
+  <div class="gameBottom"><button class="ghost" id="prevStep">Späť</button><button class="primary" id="nextStep">Hotovo →</button></div>
+</section>
+
+<section class="screen" id="done">
+  <div class="doneBox"><img src="nudi-mascot.png" alt="Nudi"><h1>Misiička hotová!</h1><p id="doneText">Nudi si zapisuje, čo fungovalo.</p><div class="rating"><button data-rate="hit">😍 HIT</button><button data-rate="ok">🙂 Ušlo</button><button data-rate="no">😬 Nie</button></div><div class="actionBar"><button class="ghost" id="encoreBtn">Chce ešte</button><button class="primary" id="homeDone">Domov</button></div></div>
+</section>
+
+<section class="screen" id="childChoice">
+  <div class="kidHeader"><button class="back" data-nav="home">×</button><h1>Vyber si dobrodružstvo</h1><p>Ťukni na obrázok a ideme sa hrať.</p></div>
+  <div class="kidCards" id="kidCards"></div>
+</section>
+
+<section class="screen" id="mine">
+  <div class="pageHeader"><button class="back" data-nav="home">←</button><div><span class="tag">Naše</span><h1>Hity a história</h1></div></div>
+  <div class="tabs"><button data-tab="hits" class="on">😍 Hity</button><button data-tab="fav">♡ Uložené</button><button data-tab="history">História</button></div>
+  <div id="mineList" class="results"></div>
+</section>
+
+<section class="screen" id="profile">
+  <div class="pageHeader"><button class="back" data-nav="home">←</button><div><span class="tag">Profil</span><h1>Nech Nudi pozná dieťa</h1></div></div>
+  <div class="profileCard"><label>Meno dieťaťa<input id="pName" placeholder="Ema"></label><label>Vek<input type="number" min="2" max="8" id="pAge"></label><label>Emoji<input id="pAvatar" maxlength="2"></label><button class="primary" id="saveProfile">Uložiť</button></div>
+  <div class="profileCard"><h2>Čo máte doma?</h2><p>Ak hra potrebuje niečo špeciálne, Nudi to zohľadní.</p><div class="inventory" id="inventory"></div></div>
+  <div class="profileCard"><h2>Aplikácia</h2><label class="switch"><input type="checkbox" id="soundToggle"><span>Zvuk / čítanie nahlas</span></label><label class="switch"><input type="checkbox" id="motionToggle" checked><span>Animácie</span></label><button class="ghost" id="installBtn">Pridať na plochu</button></div>
+</section>
+</main>
+
+<nav class="bottomNav"><button data-nav="home" class="on">🏠<span>Domov</span></button><button data-nav="pick">🔎<span>Vybrať</span></button><button id="quickPanic">🎲<span>SOS</span></button><button data-nav="mine">❤️<span>Naše</span></button><button data-nav="profile">👤<span>Profil</span></button></nav>
+<div class="toast" id="toast"></div><div class="confetti" id="confetti"></div>
+</div>
+<script src="games.js"></script><script src="app.js"></script>
+</body>
+</html>
